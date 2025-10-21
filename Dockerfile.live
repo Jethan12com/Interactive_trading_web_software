@@ -1,0 +1,19 @@
+# -----------------------------
+# CoPilot Live Engine Container
+# -----------------------------
+FROM python:3.11-slim
+
+WORKDIR /app
+COPY . /app
+
+# Dependencies
+RUN apt-get update && apt-get install -y build-essential libssl-dev libffi-dev python3-dev && rm -rf /var/lib/apt/lists/*
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Expose Prometheus port
+EXPOSE 8000
+
+ENV PYTHONUNBUFFERED=1
+
+# Run the live signal engine
+CMD ["python", "run_live.py"]

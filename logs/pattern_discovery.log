@@ -1,0 +1,101 @@
+2025-10-03 07:00:02,899 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 07:00:02,899 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 07:12:01,037 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 07:12:01,038 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 07:12:51,913 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DCF39241A0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 07:12:57,383 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DCF36FAC10>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 07:50:43,926 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 07:50:43,927 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 17:45:40,176 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 17:45:40,176 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 18:03:32,443 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000017771D83B60>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:03:58,090 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD6710>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:46:52,268 - INFO - Saved users to archive
+2025-10-03 18:46:52,270 - INFO - Added user @mimifx_x
+2025-10-03 18:47:06,130 - INFO - Loaded users from archive
+2025-10-03 18:47:06,248 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD4B90>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:47:10,015 - INFO - Loaded users from archive
+2025-10-03 18:47:13,201 - INFO - Loaded users from archive
+2025-10-03 18:47:15,059 - INFO - Loaded users from archive
+2025-10-03 18:47:17,374 - INFO - Loaded users from archive
+2025-10-03 18:47:21,805 - INFO - Loaded users from archive
+2025-10-03 18:47:40,099 - INFO - Loaded users from archive
+2025-10-03 18:47:40,156 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD60D0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:47:42,263 - INFO - Loaded users from archive
+2025-10-03 18:47:44,157 - INFO - Loaded users from archive
+2025-10-03 18:47:44,207 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CA67C50>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:48:45,043 - INFO - Loaded users from archive
+2025-10-03 18:48:45,143 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD4050>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:49:44,952 - INFO - Loaded users from archive
+2025-10-03 18:49:45,047 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD5450>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:50:44,928 - INFO - Loaded users from archive
+2025-10-03 18:50:45,144 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD5D10>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:51:44,997 - INFO - Loaded users from archive
+2025-10-03 18:51:45,071 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD4050>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:52:44,488 - INFO - Loaded users from archive
+2025-10-03 18:52:44,605 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD5450>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:53:45,094 - INFO - Loaded users from archive
+2025-10-03 18:53:45,300 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD5D10>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:54:44,865 - INFO - Loaded users from archive
+2025-10-03 18:54:44,942 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD4050>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:55:46,115 - INFO - Loaded users from archive
+2025-10-03 18:55:46,285 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD5450>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:56:46,878 - INFO - Loaded users from archive
+2025-10-03 18:56:46,974 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD5D10>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:57:47,938 - INFO - Loaded users from archive
+2025-10-03 18:57:48,090 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CBD4050>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:58:03,746 - INFO - Loaded users from archive
+2025-10-03 18:58:19,956 - INFO - Loaded users from archive
+2025-10-03 18:58:20,045 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CA67C50>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:59:13,447 - INFO - Loaded users from archive
+2025-10-03 18:59:16,834 - INFO - Loaded users from archive
+2025-10-03 18:59:16,906 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CA67C50>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 18:59:18,249 - INFO - Loaded users from archive
+2025-10-03 18:59:20,132 - INFO - Loaded users from archive
+2025-10-03 19:00:20,888 - INFO - Loaded users from archive
+2025-10-03 19:01:20,942 - INFO - Loaded users from archive
+2025-10-03 19:02:20,994 - INFO - Loaded users from archive
+2025-10-03 19:03:20,925 - INFO - Loaded users from archive
+2025-10-03 19:04:20,869 - INFO - Loaded users from archive
+2025-10-03 19:05:20,871 - INFO - Loaded users from archive
+2025-10-03 19:06:20,865 - INFO - Loaded users from archive
+2025-10-03 19:07:21,881 - INFO - Loaded users from archive
+2025-10-03 19:08:22,863 - INFO - Loaded users from archive
+2025-10-03 19:09:23,863 - INFO - Loaded users from archive
+2025-10-03 19:14:01,765 - INFO - Loaded users from archive
+2025-10-03 19:14:10,165 - INFO - Loaded users from archive
+2025-10-03 19:14:10,242 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CA67B10>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 19:14:12,128 - INFO - Loaded users from archive
+2025-10-03 19:14:22,796 - INFO - Loaded users from archive
+2025-10-03 19:15:23,955 - INFO - Loaded users from archive
+2025-10-03 19:16:23,897 - INFO - Loaded users from archive
+2025-10-03 19:17:23,044 - INFO - Loaded users from archive
+2025-10-03 19:18:24,034 - INFO - Loaded users from archive
+2025-10-03 19:19:23,875 - INFO - Loaded users from archive
+2025-10-03 19:20:23,877 - INFO - Loaded users from archive
+2025-10-03 19:21:23,869 - INFO - Loaded users from archive
+2025-10-03 19:22:25,220 - INFO - Loaded users from archive
+2025-10-03 19:23:25,963 - INFO - Loaded users from archive
+2025-10-03 19:24:26,153 - INFO - Loaded users from archive
+2025-10-03 19:25:25,876 - INFO - Loaded users from archive
+2025-10-03 19:26:26,344 - INFO - Loaded users from archive
+2025-10-03 19:27:25,867 - INFO - Loaded users from archive
+2025-10-03 20:21:33,814 - INFO - Loaded users from archive
+2025-10-03 20:21:40,029 - INFO - Loaded users from archive
+2025-10-03 20:21:40,077 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001770CA67B10>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 20:21:41,671 - INFO - Loaded users from archive
+2025-10-03 20:21:43,523 - INFO - Loaded users from archive
+2025-10-03 20:21:45,178 - INFO - Loaded users from archive
+2025-10-03 20:21:47,024 - INFO - Loaded users from archive
+2025-10-03 20:22:47,984 - INFO - Loaded users from archive
+2025-10-03 20:23:47,901 - INFO - Loaded users from archive
+2025-10-03 20:24:47,973 - INFO - Loaded users from archive
+2025-10-03 20:25:48,035 - INFO - Loaded users from archive
+2025-10-03 20:26:47,932 - INFO - Loaded users from archive
+2025-10-03 20:27:47,879 - INFO - Loaded users from archive
+2025-10-03 20:28:47,875 - INFO - Loaded users from archive
+2025-10-03 20:29:48,845 - INFO - Loaded users from archive
+2025-10-03 20:30:49,858 - INFO - Loaded users from archive
+2025-10-03 20:31:50,849 - INFO - Loaded users from archive
+2025-10-04 00:11:05,276 - INFO - Loaded API keys from config/credentials.json
+2025-10-04 00:11:05,276 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.

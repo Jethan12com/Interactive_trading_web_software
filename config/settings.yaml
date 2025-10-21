@@ -1,0 +1,35 @@
+primary_telegram_token: "your_primary_token" 
+backup_telegram_token: null 
+admin_telegram_token: "your_admin_bot_token_here"
+admin_chat_id: "your_telegram_user_id"
+
+# Paths
+log_dir: "data/logs"
+market_data_dir: "data/market_data"
+reports_dir: "data/reports"
+users_file: "data/users_archive.json"
+tiers_file: "config/tiers.json"
+
+# Risk Levels
+risk_levels:
+  low: 0.01
+  moderate: 0.03
+  high: 0.05
+
+# Signal timing
+pre_activation_window_minutes: 5
+signal_duration_minutes: 30
+
+# Live loop settings
+live_cycle_interval_seconds: 300   # default 5 min
+max_cycles: null   # null = infinite loop, or set a number for testing
+
+reports_dir: "data/reports"
+retrain_every_cycles: 10
+data_provider: "binance"  # or "ibkr"
+
+data_provider: "kraken"  # Or "binance", "ibkr", etc.
+pairs: ["BTC/USDT", "ETH/USDT"]
+
+data_provider: "polygon"
+pairs: ["BTC/USDT", "ETH/USDT", "EUR/USD", "XAU/USD", "XAG/USD", "XPT/USD", "XPD/USD", "XRH/USD", "XCU/USD"]

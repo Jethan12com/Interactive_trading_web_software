@@ -1,0 +1,118 @@
+# ============================
+# 📊 Finance / Market Data
+# ============================
+yfinance==0.2.66
+MetaTrader5==5.0.5260
+newsapi-python>=0.2.7
+ccxt>=4.0.0
+finnhub-python
+oandapyV20
+polygon-api-client
+pycoingecko
+alpha_vantage
+krakenex
+twelvedata
+vectorbt
+python-binance
+iexfinance
+tiingo
+nasdaqdatalink
+ib_insync
+
+# ============================
+# 📈 Data & Machine Learning
+# ============================
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.4.0
+scipy==1.12.0
+joblib==1.3.2
+pandas_ta==0.3.14b
+TA-Lib==0.4.30
+arch==5.6.0
+numba>=0.56.0
+
+# ============================
+# 🔥 Deep Learning
+# ============================
+torch==2.3.1+cpu
+torchvision==0.15.1+cpu
+torchaudio==2.3.0+cpu
+tensorflow==2.15.0
+tf-keras==2.15.0
+transformers>=4.44.2
+stable-baselines3>=2.0.0
+gym==0.26.2
+gymnasium
+
+# ============================
+# 💬 NLP / Sentiment
+# ============================
+textblob>=0.17.1
+vaderSentiment>=3.3.2
+emoji>=2.0.0
+
+# ============================
+# 📊 Dashboard / Visualization
+# ============================
+streamlit==1.30.0
+streamlit-autorefresh>=0.0.1
+plotly==5.20.0
+matplotlib==3.8.1
+seaborn==0.13.2
+dash
+dash-bootstrap-components
+
+# ============================
+# 🌐 Web / Async / Networking
+# ============================
+requests==2.31.0
+aiohttp
+asyncio
+beautifulsoup4==4.12.2
+lxml==4.10.1
+websockets
+retrying==1.3.4
+ratelimit==2.2.1
+tenacity
+
+# ============================
+# 📲 Telegram / Notifications
+# ============================
+python-telegram-bot==20.7
+
+# ============================
+# ⚙️ API / Auth / Backend
+# ============================
+fastapi==0.95.1
+authlib==1.2.0
+
+# ============================
+# 🕒 Scheduling / Monitoring
+# ============================
+apscheduler==3.10.1
+prometheus-client>=0.17.0
+memory_profiler>=0.60.0
+
+# ============================
+# 🧰 Utilities / Logging / Env
+# ============================
+loguru==0.7.1
+python-dotenv==1.0.0
+cachetools>=5.2.0
+pyyaml==6.0.1
+psutil
+pytz
+tqdm
+
+# ============================
+# 🗄️ Database / Persistence
+# ============================
+sqlalchemy
+psycopg2-binary  # use binary version for Docker & Heroku
+
+# ============================
+# 🔐 Security / Vault
+# ============================
+cryptography
+hvac==1.1.0

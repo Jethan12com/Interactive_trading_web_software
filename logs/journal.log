@@ -1,0 +1,5 @@
+2025-10-04 16:02:08,593 - INFO - Logged trade: {'pair': 'BTC/USDT', 'timestamp': '2025-10-04T06:00:00Z', 'outcome': 'TP', 'pnl': 100}
+2025-10-04 16:09:44,478 - INFO - Logged trade: {'pair': 'BTC/USDT', 'timestamp': '2025-10-04T06:00:00Z', 'outcome': 'TP', 'pnl': 100}
+2025-10-04 16:34:12,532 - INFO - Logged trade: {'pair': 'BTC/USDT', 'timestamp': '2025-10-04T06:00:00Z', 'outcome': 'TP', 'pnl': 100}
+2025-10-04 16:42:39,371 - INFO - Logged trade: {'pair': 'BTC/USDT', 'timestamp': '2025-10-04T06:00:00Z', 'outcome': 'TP', 'pnl': 100}
+2025-10-04 18:50:39,649 - INFO - Logged trade: {'pair': 'XAU/USD', 'timestamp': '2025-10-04T06:00:00Z', 'outcome': 'TP', 'pnl': 75}

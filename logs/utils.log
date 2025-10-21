@@ -1,0 +1,127 @@
+2025-10-03 06:25:14,222 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 06:25:14,222 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 06:25:14,230 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B4A8C46660>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 06:56:12,347 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 06:56:12,347 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 06:56:23,484 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021A9D6712B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 07:21:34,848 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 07:21:34,849 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 07:49:32,476 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 07:49:32,477 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 07:49:32,491 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029D8CECA660>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 19:17:52,528 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 19:17:52,528 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 19:17:53,636 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000014EDFB597F0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 19:30:19,754 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 19:30:19,755 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 19:30:19,805 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000295A26917F0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 19:30:19,875 - ERROR - Kraken API failed for BTC/USDT: HTTPSConnectionPool(host='api.kraken.com', port=443): Max retries exceeded with url: /0/public/OHLC?pair=XBTUSD&interval=5&since=1759512619822 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000295A25D7390>: Failed to resolve 'api.kraken.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 20:18:06,559 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 20:18:06,560 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 20:18:06,603 - ERROR - Binance API failed for BTC/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029365A297F0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 20:18:06,683 - ERROR - Binance API failed for ETH/USDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?symbol=ETHUSDT&interval=5m&limit=100 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029365977390>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 20:18:06,724 - ERROR - Kraken API failed for BTC/USDT: HTTPSConnectionPool(host='api.kraken.com', port=443): Max retries exceeded with url: /0/public/OHLC?pair=XBTUSD&interval=5&since=1759515486689 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029365977D90>: Failed to resolve 'api.kraken.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 20:18:06,759 - ERROR - Kraken API failed for ETH/USDT: HTTPSConnectionPool(host='api.kraken.com', port=443): Max retries exceeded with url: /0/public/OHLC?pair=ETHUSD&interval=5&since=1759515486727 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000293659C8190>: Failed to resolve 'api.kraken.com' ([Errno 11001] getaddrinfo failed)")), falling back to mock data
+2025-10-03 20:18:43,789 - INFO - Loaded API keys from config/credentials.json
+2025-10-03 20:18:43,789 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-03 20:18:43,790 - WARNING - No crypto pairs for Kraken, skipping
+2025-10-04 07:01:31,964 - INFO - Loaded API keys from config/credentials.json
+2025-10-04 07:01:31,965 - WARNING - Missing API keys: ['IBKR_API_KEY', 'IBKR_CLIENT_ID', 'BINANCE_API_KEY', 'BINANCE_API_SECRET']. Using mock data.
+2025-10-04 07:16:44,187 - ERROR - Error fetching data from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 07:37:16,780 - ERROR - Failed to fetch data for XXBTZUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 07:37:16,783 - WARNING - No data retrieved from kraken. Falling back to mock data.
+2025-10-04 07:37:18,703 - ERROR - Failed to fetch data for BTCUSDT from binance: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1759559838405&recvWindow=10000&signature=20ce070073e3df51ebcb966514ba6514b60ccecd76bc8922d6158a27efc95834
+2025-10-04 07:37:18,707 - WARNING - No data retrieved from binance. Falling back to mock data.
+2025-10-04 07:39:45,250 - ERROR - Failed to fetch data for BTCUSDT from binance: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1759559983924&recvWindow=10000&signature=27ce95d0eaa92560ed80485a90de6cfbb9f51348b7fae77fccb43552674bceab
+2025-10-04 07:39:45,290 - WARNING - No data retrieved from binance. Falling back to mock data.
+2025-10-04 07:52:27,644 - ERROR - Failed to fetch data for XXBTZUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 07:52:27,647 - WARNING - No data retrieved from kraken. Falling back to mock data.
+2025-10-04 07:52:29,153 - ERROR - Failed to fetch data for BTCUSDT from binance: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1759560749136&recvWindow=10000&signature=928241f8b22b1946f2357685f78eba5e215c5c4c5cf17bf5edd711409f73b516
+2025-10-04 07:52:29,156 - WARNING - No data retrieved from binance. Falling back to mock data.
+2025-10-04 13:50:04,249 - ERROR - Failed to fetch X:BTCUSD from polygon: AggsClient.get_aggs() got an unexpected keyword argument 'to_'. Did you mean 'to'?
+2025-10-04 13:50:04,252 - WARNING - No data retrieved from polygon. Falling back to mock data.
+2025-10-04 13:50:10,337 - ERROR - Failed to fetch BTCUSD from tiingo: 'date'
+2025-10-04 13:50:10,341 - WARNING - No data retrieved from tiingo. Falling back to mock data.
+2025-10-04 13:50:13,301 - WARNING - No data retrieved from alpha_vantage. Falling back to mock data.
+2025-10-04 13:50:16,328 - ERROR - Failed to fetch BINANCE:BTCUSDT from finnhub: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-10-04 13:50:16,331 - WARNING - No data retrieved from finnhub. Falling back to mock data.
+2025-10-04 13:50:20,970 - ERROR - Failed to fetch BTC/USD from nasdaq: 403 Client Error: Forbidden for url: https://data.nasdaq.com/api/v3/datasets/BTC/USD/data.json?api_key=vYzvkuvjzxPzVx-TxgEu&limit=100
+2025-10-04 13:50:20,974 - WARNING - No data retrieved from nasdaq. Falling back to mock data.
+2025-10-04 13:50:47,841 - INFO - Fetched 1 candles from metalprice
+2025-10-04 14:28:05,878 - ERROR - Failed to fetch X:BTCUSD from polygon: AggsClient.get_aggs() got an unexpected keyword argument 'to_'. Did you mean 'to'?
+2025-10-04 14:28:05,885 - WARNING - No data retrieved from polygon. Falling back to mock data.
+2025-10-04 14:28:10,237 - ERROR - Failed to fetch BTCUSD from tiingo: 'date'
+2025-10-04 14:28:10,239 - WARNING - No data retrieved from tiingo. Falling back to mock data.
+2025-10-04 14:28:17,887 - WARNING - No data retrieved from alpha_vantage. Falling back to mock data.
+2025-10-04 14:28:21,917 - ERROR - Failed to fetch BINANCE:BTCUSDT from finnhub: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-10-04 14:28:21,921 - WARNING - No data retrieved from finnhub. Falling back to mock data.
+2025-10-04 14:28:31,450 - ERROR - Failed to fetch BTC/USD from nasdaq: 403 Client Error: Forbidden for url: https://data.nasdaq.com/api/v3/datasets/BTC/USD/data.json?api_key=vYzvkuvjzxPzVx-TxgEu&limit=100
+2025-10-04 14:28:31,457 - WARNING - No data retrieved from nasdaq. Falling back to mock data.
+2025-10-04 14:28:35,092 - INFO - Fetched 1 candles from metalprice
+2025-10-04 14:44:30,268 - ERROR - Failed to fetch X:BTCUSD from polygon: AggsClient.get_aggs() got an unexpected keyword argument 'to_'. Did you mean 'to'?
+2025-10-04 14:44:30,270 - WARNING - No data retrieved from polygon. Falling back to mock data.
+2025-10-04 14:44:35,841 - ERROR - Failed to fetch BTCUSD from tiingo: 'date'
+2025-10-04 14:44:35,846 - WARNING - No data retrieved from tiingo. Falling back to mock data.
+2025-10-04 14:44:38,883 - WARNING - No data retrieved from alpha_vantage. Falling back to mock data.
+2025-10-04 14:44:41,954 - ERROR - Failed to fetch BINANCE:BTCUSDT from finnhub: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-10-04 14:44:41,958 - WARNING - No data retrieved from finnhub. Falling back to mock data.
+2025-10-04 14:44:45,539 - ERROR - Failed to fetch BTC/USD from nasdaq: 403 Client Error: Forbidden for url: https://data.nasdaq.com/api/v3/datasets/BTC/USD/data.json?api_key=vYzvkuvjzxPzVx-TxgEu&limit=100
+2025-10-04 14:44:45,543 - WARNING - No data retrieved from nasdaq. Falling back to mock data.
+2025-10-04 14:44:55,465 - INFO - Fetched 1 candles from metalprice
+2025-10-04 16:34:00,131 - INFO - Fetched 1 candles from metalprice
+2025-10-04 16:42:13,394 - INFO - Fetched 1 candles from metalprice
+2025-10-04 16:45:28,666 - ERROR - Failed to fetch XXBTZUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 16:45:29,592 - ERROR - Failed to fetch XETHZUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 16:45:30,593 - ERROR - Failed to fetch EURUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 16:45:31,593 - ERROR - Failed to fetch XAU/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 16:45:32,594 - ERROR - Failed to fetch XAG/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 16:45:33,602 - ERROR - Failed to fetch XPT/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 16:45:34,596 - ERROR - Failed to fetch XPD/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 16:45:35,597 - ERROR - Failed to fetch XRH/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 16:45:36,601 - ERROR - Failed to fetch XCU/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 16:45:36,602 - WARNING - No data retrieved from kraken. Falling back to mock data.
+2025-10-04 16:45:36,633 - INFO - Using data from kraken
+2025-10-04 17:34:21,321 - INFO - Starting live signal pipeline
+2025-10-04 17:34:21,417 - INFO - Loaded 0 users
+2025-10-04 17:34:21,455 - ERROR - Failed to fetch XXBTZUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 17:34:22,427 - ERROR - Failed to fetch XETHZUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 17:34:23,428 - ERROR - Failed to fetch EURUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 17:34:24,430 - ERROR - Failed to fetch XAU/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 17:34:25,430 - ERROR - Failed to fetch XAG/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 17:34:26,430 - ERROR - Failed to fetch XPT/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 17:34:27,440 - ERROR - Failed to fetch XPD/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 17:34:28,433 - ERROR - Failed to fetch XRH/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 17:34:29,432 - ERROR - Failed to fetch XCU/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 17:34:29,454 - WARNING - No data retrieved from kraken. Falling back to mock data.
+2025-10-04 17:34:29,933 - INFO - Using data from kraken with 900 candles
+2025-10-04 17:34:29,933 - INFO - Live signal pipeline completed
+2025-10-04 18:38:09,103 - INFO - Generated 200 candles for BTC/USDT
+2025-10-04 18:38:09,107 - INFO - Generated 200 candles for XAU/USD
+2025-10-04 18:38:09,113 - INFO - Generated mock data with 400 candles for 2 pairs
+2025-10-04 18:45:50,232 - INFO - Starting live signal pipeline
+2025-10-04 18:45:50,299 - INFO - Loaded 0 users
+2025-10-04 18:45:50,397 - ERROR - Failed to fetch XXBTZUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 18:45:51,310 - ERROR - Failed to fetch XETHZUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 18:45:52,306 - ERROR - Failed to fetch EURUSD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 18:45:53,309 - ERROR - Failed to fetch XAU/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 18:45:54,307 - ERROR - Failed to fetch XAG/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 18:45:55,313 - ERROR - Failed to fetch XPT/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 18:45:56,307 - ERROR - Failed to fetch XPD/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 18:45:57,306 - ERROR - Failed to fetch XRH/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 18:45:58,307 - ERROR - Failed to fetch XCU/USD from kraken: kraken GET https://api.kraken.com/0/public/Assets
+2025-10-04 18:45:58,310 - WARNING - No data retrieved from kraken. Falling back to mock data.
+2025-10-04 18:45:58,327 - INFO - Generated 200 candles for BTC/USDT
+2025-10-04 18:45:58,330 - INFO - Generated 200 candles for ETH/USDT
+2025-10-04 18:45:58,333 - INFO - Generated 200 candles for EUR/USD
+2025-10-04 18:45:58,336 - INFO - Generated 200 candles for XAU/USD
+2025-10-04 18:45:58,340 - INFO - Generated 200 candles for XAG/USD
+2025-10-04 18:45:58,343 - INFO - Generated 200 candles for XPT/USD
+2025-10-04 18:45:58,346 - INFO - Generated 200 candles for XPD/USD
+2025-10-04 18:45:58,349 - INFO - Generated 200 candles for XRH/USD
+2025-10-04 18:45:58,352 - INFO - Generated 200 candles for XCU/USD
+2025-10-04 18:45:58,363 - INFO - Generated mock data with 1800 candles for 9 pairs
+2025-10-04 18:45:58,364 - INFO - Using data from kraken with 1800 candles
+2025-10-04 18:45:58,364 - INFO - Live signal pipeline completed
+2025-10-04 18:51:15,659 - INFO - Fetched 2 candles from metalprice
+2025-10-05 22:34:54,380 - INFO - Calculated volatility for 1 pairs
+2025-10-05 22:34:54,414 - INFO - Detected 39 bullish and 1 bearish patterns

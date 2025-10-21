@@ -1,0 +1,5 @@
+entry_time,user_id,pair,profit,status
+2025-10-01T10:00:00,1,EUR/USD,100,closed
+2025-10-02T12:00:00,2,BTC/USDT,-50,closed
+2025-10-03T14:00:00,1,XAU/USD,200,closed
+2025-10-04T16:00:00,3,EUR/USD,0,open

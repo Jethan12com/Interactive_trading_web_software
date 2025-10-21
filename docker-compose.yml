@@ -1,0 +1,117 @@
+version: "3.9"
+
+services:
+  # ==========================================
+  # 🧠 CoPilot Pipeline (Data + Signals)
+  # ==========================================
+  copilot_pipeline:
+    build: .
+    container_name: copilot_pipeline
+    command: ["./wait-for-it.sh", "vault:8200", "--timeout=60", "--", "python", "run_live.py"]
+    restart: unless-stopped
+    environment:
+      - VAULT_URL=http://vault:8200
+      - VAULT_TOKEN=${VAULT_TOKEN:-dev-token}
+      - TZ=UTC
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./prometheus.yml:/app/prometheus.yml:ro
+      - ./wait-for-it.sh:/app/wait-for-it.sh:ro
+    ports:
+      - "8000:8000"  # Prometheus metrics endpoint
+    depends_on:
+      - vault
+      - prometheus
+    networks:
+      - copilot_net
+
+  # ==========================================
+  # 📊 Streamlit Dashboard
+  # ==========================================
+  copilot_dashboard:
+    build: .
+    container_name: copilot_dashboard
+    command: ["streamlit", "run", "dashboard/app.py", "--server.port", "8501", "--server.address", "0.0.0.0"]
+    restart: unless-stopped
+    environment:
+      - VAULT_URL=http://vault:8200
+      - VAULT_TOKEN=${VAULT_TOKEN:-dev-token}
+      - TZ=UTC
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
+      - ./models:/app/models
+    ports:
+      - "8501:8501"
+    depends_on:
+      - copilot_pipeline
+      - vault
+    networks:
+      - copilot_net
+
+  # ==========================================
+  # 🔐 HashiCorp Vault (Secrets Manager)
+  # ==========================================
+  vault:
+    image: vault:1.16.0
+    container_name: vault
+    environment:
+      - VAULT_DEV_ROOT_TOKEN_ID=${VAULT_TOKEN:-dev-token}
+      - VAULT_ADDR=http://0.0.0.0:8200
+    command: "server -dev -dev-listen-address=0.0.0.0:8200"
+    ports:
+      - "8200:8200"
+    cap_add:
+      - IPC_LOCK
+    restart: unless-stopped
+    networks:
+      - copilot_net
+
+  # ==========================================
+  # 📈 Prometheus (Monitoring)
+  # ==========================================
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus_data:/prometheus
+    ports:
+      - "9090:9090"
+    restart: unless-stopped
+    networks:
+      - copilot_net
+
+  # ==========================================
+  # 📊 Grafana (Dashboarding for Metrics)
+  # ==========================================
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    depends_on:
+      - prometheus
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning:ro
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    networks:
+      - copilot_net
+
+# ==========================================
+# 🌐 Shared Network & Persistent Volumes
+# ==========================================
+networks:
+  copilot_net:
+    driver: bridge
+
+volumes:
+  prometheus_data:
+  grafana_data:

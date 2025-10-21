@@ -1,0 +1,100 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: copilot-app
+  namespace: copilot
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: copilot
+  template:
+    metadata:
+      labels:
+        app: copilot
+    spec:
+      containers:
+      - name: copilot
+        image: copilot:latest
+        resources:
+          limits:
+            cpu: "4"
+            memory: "4Gi"
+          requests:
+            cpu: "2"
+            memory: "2Gi"
+        env:
+          - name: TELEGRAM_BOT_TOKEN
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: telegram-bot-token
+          - name: STRIPE_API_KEY
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: stripe-api-key
+          - name: REDDIT_CLIENT_ID
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: reddit-client-id
+          - name: REDDIT_CLIENT_SECRET
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: reddit-client-secret
+          - name: FINNHUB_API_KEY
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: finnhub-api-key
+          - name: BINANCE_API_KEY
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: binance-api-key
+          - name: BINANCE_API_SECRET
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: binance-api-secret
+          - name: OANDA_API_KEY
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: oanda-api-key
+          - name: OANDA_ACCOUNT_ID
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: oanda-account-id
+          - name: ALPHAVANTAGE_API_KEY
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: alphavantage-api-key
+          - name: GOOGLE_CLIENT_ID
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: google-client-id
+          - name: GOOGLE_CLIENT_SECRET
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: google-client-secret
+          - name: SESSION_SECRET
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: session-secret
+          - name: VAULT_TOKEN
+            valueFrom:
+              secretKeyRef:
+                name: copilot-secrets
+                key: vault-token
+          - name: USE_VAULT
+            value: "true"
+          - name: VAULT_URL
+            value: "http://vault:8200"

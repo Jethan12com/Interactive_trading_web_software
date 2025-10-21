@@ -1,0 +1,4 @@
+timestamp,pair,signal,confidence,position_size
+2025-10-01T10:00:00,EUR/USD,buy,0.65,0.1234
+2025-10-02T12:00:00,BTC/USDT,hold,0.45,0.0000
+2025-10-03T14:00:00,XAU/USD,sell,0.62,0.0987

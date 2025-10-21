@@ -1,0 +1,188 @@
+2025-10-17 09:55:40 W. Central Africa Standard Time - ERROR - Error in main: HTTPConnectionPool(host='127.0.0.1', port=8200): Max retries exceeded with url: /v1/auth/token/lookup-self (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B13D5A270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-17 10:13:53 W. Central Africa Standard Time - ERROR - Error in main: Vault authentication failed. Check URL and token.
+2025-10-17 12:02:35 W. Central Africa Standard Time - ERROR - Error in main: Vault authentication failed. Check URL and token.
+2025-10-17 12:13:31 W. Central Africa Standard Time - ERROR - Error in main: HTTPConnectionPool(host='127.0.0.1', port=8200): Max retries exceeded with url: /v1/auth/token/lookup-self (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016C415863C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-17 12:26:57 W. Central Africa Standard Time - ERROR - Error in main: Secret path 'telegram' not found in Vault.
+2025-10-17 12:32:24 W. Central Africa Standard Time - ERROR - Error in main: Invalid or missing Telegram credentials in Vault.
+2025-10-17 12:37:50 W. Central Africa Standard Time - ERROR - Error in main: Invalid or missing Telegram credentials in Vault.
+2025-10-17 12:46:56 W. Central Africa Standard Time - ERROR - Error in main: Invalid or missing Telegram credentials in Vault.
+2025-10-17 12:51:20 W. Central Africa Standard Time - ERROR - Error in main: Vault authentication failed. Check URL and token.
+2025-10-17 13:03:25 W. Central Africa Standard Time - ERROR - Error in main: Invalid or missing Telegram credentials in Vault.
+2025-10-17 13:08:06 W. Central Africa Standard Time - ERROR - Error in main: Vault authentication failed. Check URL and token.
+2025-10-17 13:11:10 W. Central Africa Standard Time - ERROR - Error in main: Invalid or missing Telegram credentials in Vault.
+2025-10-17 13:14:11 W. Central Africa Standard Time - ERROR - Error in main: Invalid or missing Telegram credentials in Vault.
+2025-10-17 15:11:47 W. Central Africa Standard Time - ERROR - Error in main: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-10-17 16:37:25 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:37:45 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:37:45 W. Central Africa Standard Time - WARNING - Telegram alert failed: asyncio.run() cannot be called from a running event loop
+2025-10-17 16:42:00 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:42:08 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:42:08 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:42:10 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:42:10 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:42:42 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:42:43 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:42:43 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:42:43 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:43:12 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:43:13 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:43:13 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:43:13 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:43:42 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:43:43 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:43:43 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:43:43 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 16:43:56 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:44:12 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:44:23 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:44:25 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:44:28 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:44:48 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:44:49 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:45:03 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:45:03 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 16:45:15 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:45:15 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 16:45:32 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:45:39 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:45:39 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 16:45:41 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:45:42 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 16:46:00 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:46:11 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:46:41 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:47:12 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:47:42 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:48:13 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:48:41 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:48:45 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:48:45 W. Central Africa Standard Time - ERROR - Error in main: table users has no column named token_expiry_hours
+2025-10-17 16:49:11 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 16:49:51 W. Central Africa Standard Time - ERROR - Error in main: Timed out
+2025-10-17 17:06:02 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:06:19 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:06:19 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 17:06:19 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 17:06:19 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 17:06:28 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:06:35 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:06:35 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:06:51 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:06:51 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:07:21 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:07:21 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:07:51 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:07:51 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:08:21 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:08:21 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:08:51 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:08:51 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:09:21 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:09:21 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:09:51 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:09:51 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:10:52 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:10:52 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:11:53 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:11:53 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:12:54 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:12:55 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:13:55 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:13:57 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:14:56 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:14:57 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 17:15:58 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 17:15:59 W. Central Africa Standard Time - ERROR - Error in main: 'outcome'
+2025-10-17 22:43:10 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:43:18 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:43:20 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:43:20 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:43:20 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:43:20 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:43:20 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:43:53 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:43:53 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:43:53 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:43:53 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:44:25 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:44:26 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:44:26 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:44:26 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:44:54 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:44:54 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:44:54 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:44:54 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:45:26 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:45:27 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:45:27 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:45:27 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:45:55 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:45:55 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:45:55 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:45:55 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:46:24 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:46:24 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:46:24 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:46:24 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:46:52 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:46:52 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:46:52 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:46:52 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:47:54 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:47:55 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:47:55 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:47:55 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:48:55 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:48:55 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:48:55 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:48:55 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:49:56 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:49:56 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:49:57 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:49:57 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:51:01 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:51:01 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:51:01 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:51:02 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:51:57 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:51:57 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:51:57 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:51:57 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:52:59 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:52:59 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:53:00 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:53:00 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-17 22:56:12 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:56:26 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:56:26 W. Central Africa Standard Time - WARNING - Telegram alert failed: asyncio.run() cannot be called from a running event loop
+2025-10-17 22:56:33 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:56:33 W. Central Africa Standard Time - WARNING - Telegram alert failed: asyncio.run() cannot be called from a running event loop
+2025-10-17 22:56:38 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-17 22:56:38 W. Central Africa Standard Time - WARNING - Telegram alert failed: asyncio.run() cannot be called from a running event loop
+2025-10-18 00:10:25 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-18 00:10:40 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-18 00:10:40 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-18 00:10:40 W. Central Africa Standard Time - WARNING - Telegram alert failed: asyncio.run() cannot be called from a running event loop
+2025-10-18 01:13:04 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-18 01:13:13 W. Central Africa Standard Time - INFO - TelegramNotifier started
+2025-10-18 01:13:13 W. Central Africa Standard Time - WARNING - Telegram alert failed: asyncio.run() cannot be called from a running event loop
+2025-10-18 10:12:47 W. Central Africa Standard Time - ERROR - Failed to initialize TelegramNotifier: Invalid or missing Telegram credentials in Vault.
+2025-10-18 10:12:47 W. Central Africa Standard Time - WARNING - Running without TelegramNotifier. Notifications will not be sent.
+2025-10-18 10:12:48 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-18 10:12:48 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-18 10:12:48 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-18 11:39:15 W. Central Africa Standard Time - ERROR - Failed to initialize TelegramNotifier: Invalid or missing Telegram credentials in Vault.
+2025-10-18 11:39:15 W. Central Africa Standard Time - WARNING - Running without TelegramNotifier. Notifications will not be sent.
+2025-10-18 11:39:16 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-18 11:39:16 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-18 11:39:16 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-18 12:06:29 W. Central Africa Standard Time - ERROR - Failed to initialize TelegramNotifier: Invalid or missing Telegram credentials in Vault.
+2025-10-18 12:06:29 W. Central Africa Standard Time - WARNING - Running without TelegramNotifier. Notifications will not be sent.
+2025-10-18 12:06:29 W. Central Africa Standard Time - WARNING - Pattern engine error for EUR/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-18 12:06:29 W. Central Africa Standard Time - WARNING - Pattern engine error for GBP/USD: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-18 12:06:29 W. Central Africa Standard Time - WARNING - Pattern engine error for USD/JPY: 'PatternDiscovery' object has no attribute 'detect_patterns'
+2025-10-18 14:07:17 W. Central Africa Standard Time - ERROR - Error in main: 'TelegramNotifier' object has no attribute 'start'

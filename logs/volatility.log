@@ -1,0 +1,183 @@
+2025-10-04 16:10:06,171 - INFO - Calculated volatility for 2 pairs
+2025-10-04 16:34:30,072 - INFO - Calculated volatility for 2 pairs
+2025-10-04 16:43:14,994 - INFO - Calculated volatility for 2 pairs
+2025-10-04 16:44:28,591 - INFO - Merged DataFrame shape: (3, 14), signals_df shape: (3, 12), outcomes_df shape: (1, 4)
+2025-10-04 16:44:28,642 - INFO - Model (mlp) trained with metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 16:44:30,947 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-04 16:46:16,026 - INFO - Merged DataFrame shape: (3, 14), signals_df shape: (3, 12), outcomes_df shape: (1, 4)
+2025-10-04 16:46:16,143 - INFO - Model (mlp) trained with metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 17:35:14,459 - INFO - Loaded 3 signals and 1 outcomes
+2025-10-04 17:35:14,518 - INFO - Merged DataFrame shape: (3, 14), signals_df shape: (3, 12), outcomes_df shape: (1, 4)
+2025-10-04 17:35:14,562 - INFO - Model (mlp) trained with metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 17:35:14,564 - INFO - Computed metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 17:35:14,570 - INFO - Rendered session analysis chart
+2025-10-04 17:37:29,253 - INFO - Loaded 3 signals and 1 outcomes
+2025-10-04 17:37:29,304 - INFO - Merged DataFrame shape: (3, 14), signals_df shape: (3, 12), outcomes_df shape: (1, 4)
+2025-10-04 17:37:29,385 - INFO - Model (mlp) trained with metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 17:37:29,391 - INFO - Computed metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 17:37:29,405 - INFO - Rendered session analysis chart
+2025-10-04 17:38:03,083 - INFO - Loaded 3 signals and 1 outcomes
+2025-10-04 17:38:04,215 - INFO - Merged DataFrame shape: (3, 14), signals_df shape: (3, 12), outcomes_df shape: (1, 4)
+2025-10-04 17:38:04,579 - INFO - Model (mlp) trained with metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 17:38:04,589 - INFO - Computed metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 17:38:04,628 - INFO - Rendered session analysis chart
+2025-10-04 18:26:54,908 - INFO - Generated mock data with 400 candles for 2 pairs
+2025-10-04 18:28:05,648 - INFO - Loaded 3 signals and 1 outcomes
+2025-10-04 18:28:05,988 - INFO - Merged DataFrame shape: (3, 14), signals_df shape: (3, 12), outcomes_df shape: (1, 4)
+2025-10-04 18:28:06,321 - INFO - Model (mlp) trained with metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 18:28:06,332 - INFO - Computed metrics: {'f1_score': 0.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(-0.002067921487734801)}
+2025-10-04 18:28:06,361 - INFO - Rendered session analysis chart
+2025-10-04 18:38:31,249 - INFO - Generated 200 candles for BTC/USDT
+2025-10-04 18:38:31,253 - INFO - Generated 200 candles for XAU/USD
+2025-10-04 18:38:31,262 - INFO - Generated mock data with 400 candles for 2 pairs
+2025-10-04 18:38:31,289 - ERROR - IndexError for Doji check on XAU/USD at index 212: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,290 - ERROR - IndexError for Doji check on XAU/USD at index 219: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,290 - ERROR - IndexError for Doji check on XAU/USD at index 220: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,290 - ERROR - IndexError for Doji check on XAU/USD at index 224: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,291 - ERROR - IndexError for Doji check on XAU/USD at index 228: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,291 - ERROR - IndexError for Doji check on XAU/USD at index 229: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,291 - ERROR - IndexError for Doji check on XAU/USD at index 231: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,291 - ERROR - IndexError for Doji check on XAU/USD at index 232: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,291 - ERROR - IndexError for Doji check on XAU/USD at index 233: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,291 - ERROR - IndexError for Doji check on XAU/USD at index 234: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,292 - ERROR - IndexError for Doji check on XAU/USD at index 236: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,292 - ERROR - IndexError for Doji check on XAU/USD at index 237: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,292 - ERROR - IndexError for Doji check on XAU/USD at index 240: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,292 - ERROR - IndexError for Doji check on XAU/USD at index 242: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,292 - ERROR - IndexError for Doji check on XAU/USD at index 247: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,292 - ERROR - IndexError for Doji check on XAU/USD at index 249: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,293 - ERROR - IndexError for Doji check on XAU/USD at index 250: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,293 - ERROR - IndexError for Doji check on XAU/USD at index 258: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,293 - ERROR - IndexError for Doji check on XAU/USD at index 259: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,293 - ERROR - IndexError for Doji check on XAU/USD at index 265: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,294 - ERROR - IndexError for Doji check on XAU/USD at index 268: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,294 - ERROR - IndexError for Doji check on XAU/USD at index 272: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,294 - ERROR - IndexError for Doji check on XAU/USD at index 273: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,294 - ERROR - IndexError for Doji check on XAU/USD at index 274: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,294 - ERROR - IndexError for Doji check on XAU/USD at index 275: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,294 - ERROR - IndexError for Doji check on XAU/USD at index 277: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,294 - ERROR - IndexError for Doji check on XAU/USD at index 278: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,294 - ERROR - IndexError for Doji check on XAU/USD at index 279: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,294 - ERROR - IndexError for Doji check on XAU/USD at index 281: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,295 - ERROR - IndexError for Doji check on XAU/USD at index 282: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,295 - ERROR - IndexError for Doji check on XAU/USD at index 284: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,295 - ERROR - IndexError for Doji check on XAU/USD at index 287: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,295 - ERROR - IndexError for Doji check on XAU/USD at index 290: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,296 - ERROR - IndexError for Doji check on XAU/USD at index 300: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,296 - ERROR - IndexError for Doji check on XAU/USD at index 301: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,296 - ERROR - IndexError for Doji check on XAU/USD at index 303: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,297 - ERROR - IndexError for Doji check on XAU/USD at index 315: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,297 - ERROR - IndexError for Doji check on XAU/USD at index 323: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,298 - ERROR - IndexError for Doji check on XAU/USD at index 329: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,298 - ERROR - IndexError for Doji check on XAU/USD at index 332: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,298 - ERROR - IndexError for Doji check on XAU/USD at index 335: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,299 - ERROR - IndexError for Doji check on XAU/USD at index 340: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,299 - ERROR - IndexError for Doji check on XAU/USD at index 342: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,299 - ERROR - IndexError for Doji check on XAU/USD at index 343: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,299 - ERROR - IndexError for Doji check on XAU/USD at index 344: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,299 - ERROR - IndexError for Doji check on XAU/USD at index 347: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,300 - ERROR - IndexError for Doji check on XAU/USD at index 349: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,300 - ERROR - IndexError for Doji check on XAU/USD at index 350: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,300 - ERROR - IndexError for Doji check on XAU/USD at index 354: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,300 - ERROR - IndexError for Doji check on XAU/USD at index 355: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,300 - ERROR - IndexError for Doji check on XAU/USD at index 358: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,301 - ERROR - IndexError for Doji check on XAU/USD at index 362: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,301 - ERROR - IndexError for Doji check on XAU/USD at index 363: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,301 - ERROR - IndexError for Doji check on XAU/USD at index 370: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,301 - ERROR - IndexError for Doji check on XAU/USD at index 374: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,302 - ERROR - IndexError for Doji check on XAU/USD at index 377: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,302 - ERROR - IndexError for Doji check on XAU/USD at index 378: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,302 - ERROR - IndexError for Doji check on XAU/USD at index 379: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,302 - ERROR - IndexError for Doji check on XAU/USD at index 384: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,302 - ERROR - IndexError for Doji check on XAU/USD at index 385: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,302 - ERROR - IndexError for Doji check on XAU/USD at index 386: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,303 - ERROR - IndexError for Doji check on XAU/USD at index 388: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,303 - ERROR - IndexError for Doji check on XAU/USD at index 390: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,303 - ERROR - IndexError for Doji check on XAU/USD at index 392: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,303 - ERROR - IndexError for Doji check on XAU/USD at index 393: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,303 - ERROR - IndexError for Doji check on XAU/USD at index 394: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,304 - ERROR - IndexError for Doji check on XAU/USD at index 399: single positional indexer is out-of-bounds
+2025-10-04 18:38:31,304 - INFO - Detected 47 bullish and 3 bearish patterns
+2025-10-04 18:40:23,921 - INFO - Generated 200 candles for BTC/USDT
+2025-10-04 18:40:23,926 - INFO - Generated 200 candles for XAU/USD
+2025-10-04 18:40:23,938 - INFO - Generated mock data with 400 candles for 2 pairs
+2025-10-04 18:40:24,004 - INFO - Calculated volatility for 2 pairs
+2025-10-04 18:40:24,031 - ERROR - IndexError for Doji check on XAU/USD at index 210: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,031 - ERROR - IndexError for Doji check on XAU/USD at index 213: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,031 - ERROR - IndexError for Doji check on XAU/USD at index 215: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,032 - ERROR - IndexError for Doji check on XAU/USD at index 221: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,032 - ERROR - IndexError for Doji check on XAU/USD at index 222: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,032 - ERROR - IndexError for Doji check on XAU/USD at index 231: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,032 - ERROR - IndexError for Doji check on XAU/USD at index 233: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,033 - ERROR - IndexError for Doji check on XAU/USD at index 234: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,033 - ERROR - IndexError for Doji check on XAU/USD at index 236: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,033 - ERROR - IndexError for Doji check on XAU/USD at index 248: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,034 - ERROR - IndexError for Doji check on XAU/USD at index 250: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,034 - ERROR - IndexError for Doji check on XAU/USD at index 255: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,034 - ERROR - IndexError for Doji check on XAU/USD at index 256: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,034 - ERROR - IndexError for Doji check on XAU/USD at index 258: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,034 - ERROR - IndexError for Doji check on XAU/USD at index 264: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,035 - ERROR - IndexError for Doji check on XAU/USD at index 271: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,035 - ERROR - IndexError for Doji check on XAU/USD at index 272: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,035 - ERROR - IndexError for Doji check on XAU/USD at index 278: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,035 - ERROR - IndexError for Doji check on XAU/USD at index 280: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,036 - ERROR - IndexError for Doji check on XAU/USD at index 281: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,036 - ERROR - IndexError for Doji check on XAU/USD at index 283: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,036 - ERROR - IndexError for Doji check on XAU/USD at index 288: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,036 - ERROR - IndexError for Doji check on XAU/USD at index 292: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,036 - ERROR - IndexError for Doji check on XAU/USD at index 293: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,036 - ERROR - IndexError for Doji check on XAU/USD at index 294: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,037 - ERROR - IndexError for Doji check on XAU/USD at index 300: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,037 - ERROR - IndexError for Doji check on XAU/USD at index 304: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,037 - ERROR - IndexError for Doji check on XAU/USD at index 309: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,037 - ERROR - IndexError for Doji check on XAU/USD at index 310: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,038 - ERROR - IndexError for Doji check on XAU/USD at index 317: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,038 - ERROR - IndexError for Doji check on XAU/USD at index 318: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,039 - ERROR - IndexError for Doji check on XAU/USD at index 321: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,039 - ERROR - IndexError for Doji check on XAU/USD at index 324: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,039 - ERROR - IndexError for Doji check on XAU/USD at index 330: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,040 - ERROR - IndexError for Doji check on XAU/USD at index 333: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,040 - ERROR - IndexError for Doji check on XAU/USD at index 338: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,040 - ERROR - IndexError for Doji check on XAU/USD at index 339: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,040 - ERROR - IndexError for Doji check on XAU/USD at index 343: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,041 - ERROR - IndexError for Doji check on XAU/USD at index 345: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,041 - ERROR - IndexError for Doji check on XAU/USD at index 348: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,041 - ERROR - IndexError for Doji check on XAU/USD at index 349: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,041 - ERROR - IndexError for Doji check on XAU/USD at index 352: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,041 - ERROR - IndexError for Doji check on XAU/USD at index 353: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,041 - ERROR - IndexError for Doji check on XAU/USD at index 354: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,042 - ERROR - IndexError for Doji check on XAU/USD at index 360: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,042 - ERROR - IndexError for Doji check on XAU/USD at index 369: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,042 - ERROR - IndexError for Doji check on XAU/USD at index 371: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,043 - ERROR - IndexError for Doji check on XAU/USD at index 375: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,043 - ERROR - IndexError for Doji check on XAU/USD at index 377: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,043 - ERROR - IndexError for Doji check on XAU/USD at index 380: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,043 - ERROR - IndexError for Doji check on XAU/USD at index 383: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,043 - ERROR - IndexError for Doji check on XAU/USD at index 384: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,043 - ERROR - IndexError for Doji check on XAU/USD at index 388: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,044 - ERROR - IndexError for Doji check on XAU/USD at index 389: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,044 - ERROR - IndexError for Doji check on XAU/USD at index 393: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,044 - ERROR - IndexError for Doji check on XAU/USD at index 398: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,044 - ERROR - IndexError for Doji check on XAU/USD at index 399: single positional indexer is out-of-bounds
+2025-10-04 18:40:24,044 - INFO - Detected 47 bullish and 5 bearish patterns
+2025-10-04 18:42:33,637 - INFO - Loaded 3 signals and 3 outcomes
+2025-10-04 18:42:33,678 - INFO - Merged DataFrame shape: (3, 14), signals_df shape: (3, 12), outcomes_df shape: (3, 4)
+2025-10-04 18:42:33,963 - INFO - Model (mlp) trained with metrics: {'f1_score': 1.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(1.0320663682465068)}
+2025-10-04 18:42:33,966 - INFO - Computed metrics: {'f1_score': 1.0, 'sharpe_ratio': np.float64(nan), 'expectancy': np.float64(1.0320663682465068)}
+2025-10-04 18:42:34,000 - INFO - Rendered session analysis chart
+2025-10-04 19:04:47,157 - INFO - Fetched 1 candles from metalprice
+2025-10-04 19:04:47,161 - WARNING - Not enough data for XAU/USD to detect patterns (rows: 1)
+2025-10-04 19:04:47,161 - INFO - Detected 0 bullish and 0 bearish patterns
+2025-10-04 19:16:35,733 - INFO - Generated 200 candles for BTC/USDT
+2025-10-04 19:16:35,736 - INFO - Generated 200 candles for XAU/USD
+2025-10-04 19:16:35,744 - INFO - Generated mock data with 400 candles for 2 pairs
+2025-10-04 19:16:35,806 - INFO - Calculated volatility for 2 pairs
+2025-10-04 19:16:35,811 - INFO - Volatility accuracy for BTC/USDT: MSE=0.000001, RMSE=0.000735, MAE=0.000612
+2025-10-04 19:16:35,813 - INFO - Volatility accuracy for XAU/USD: MSE=0.000002, RMSE=0.001370, MAE=0.001141
+2025-10-04 19:17:33,831 - INFO - Fetched 2 candles from metalprice
+2025-10-04 19:17:33,861 - WARNING - Not enough data for XAU/USD. Assigning default volatility.
+2025-10-04 19:17:33,863 - WARNING - Not enough data for XAG/USD. Assigning default volatility.
+2025-10-04 19:17:33,867 - INFO - Calculated volatility for 2 pairs
+2025-10-04 19:17:33,871 - WARNING - No overlapping data for XAU/USD to test volatility
+2025-10-04 19:17:33,872 - WARNING - No overlapping data for XAG/USD to test volatility

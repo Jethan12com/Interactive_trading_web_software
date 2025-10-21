@@ -1,0 +1,71 @@
+2025-10-13 15:05:57,375 - INFO - \U0001f680 Starting CoPilot Telegram Notifier...
+2025-10-13 15:05:57,380 - INFO - Loaded configuration from config/config.json
+2025-10-13 15:05:57,380 - WARNING - Credentials file credentials.json not found — falling back to environment variables.
+2025-10-13 15:05:57,380 - WARNING - newsapi_key is missing in credentials.json and environment variables.
+2025-10-13 15:05:57,380 - INFO - Loaded credentials successfully
+2025-10-13 15:05:57,380 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-13 15:05:57,545 - INFO - Telegram handlers set up successfully
+2025-10-13 15:05:57,545 - INFO - \u2705 TelegramNotifier initialized for chat ID None
+2025-10-13 15:05:57,545 - INFO - Initializing Telegram bot application...
+2025-10-13 15:05:58,233 - INFO - HTTP Request: POST https://api.telegram.org/botyour-telegram-bot-token/getMe "HTTP/1.1 404 Not Found"
+2025-10-13 15:05:58,235 - ERROR - \u274c Fatal error in notifier: The token `your-telegram-bot-token` was rejected by the server.
+Traceback (most recent call last):
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\_bot.py", line 854, in initialize
+    await self.get_me()
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\ext\_extbot.py", line 1999, in get_me
+    return await super().get_me(
+           ^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\_bot.py", line 985, in get_me
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\_bot.py", line 703, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\ext\_extbot.py", line 372, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\_bot.py", line 732, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\request\_baserequest.py", line 375, in _request_wrapper
+    raise exception
+telegram.error.InvalidToken: Not Found
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\tekno asya\Desktop\copilot\run_notifier.py", line 44, in main
+    await notifier.start_bot()
+  File "c:\Users\tekno asya\Desktop\copilot\modules\notifier.py", line 142, in start_bot
+    await self.initialize()
+  File "c:\Users\tekno asya\Desktop\copilot\modules\notifier.py", line 132, in initialize
+    await self.app.initialize()
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\ext\_application.py", line 489, in initialize
+    await self.bot.initialize()
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\ext\_extbot.py", line 318, in initialize
+    await super().initialize()
+  File "C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\telegram\_bot.py", line 856, in initialize
+    raise InvalidToken(f"The token `{self._token}` was rejected by the server.") from exc
+telegram.error.InvalidToken: The token `your-telegram-bot-token` was rejected by the server.
+2025-10-13 15:05:58,252 - INFO - \U0001f51a TelegramNotifier shutting down gracefully.

@@ -1,0 +1,33 @@
+{
+  "trading": {
+    "pairs": ["BTC/USDT", "ETH/USDT", "SP500", "TLT"],
+    "timeframe": "1h",
+    "capital": 10000,
+    "fees": 0.001,
+    "slippage": 0.001,
+    "fast_ma_period": 10,
+    "slow_ma_period": 50,
+    "rsi_period": 14,
+    "rsi_lower": 30,
+    "rsi_upper": 70
+  },
+  "sessions": {
+    "London": "08:00-16:00",
+    "New York": "13:00-21:00",
+    "Asia": "00:00-08:00"
+  },
+  "model": {
+    "vol_model": "GARCH",
+    "window": 50
+  },
+  "notifications": {
+    "enable_telegram": true,
+    "enable_email": false
+  },
+  "news": {
+    "keywords": ["bitcoin", "ethereum", "forex", "market"],
+    "sources": ["reuters", "bloomberg"],
+    "language": "en",
+    "max_articles": 100
+  }
+}

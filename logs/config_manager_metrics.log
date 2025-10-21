@@ -1,0 +1,36 @@
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_config_initialized{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_credential_access_failed{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_config_initialized{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_credential_access{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_config_initialized{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_credential_access{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_config_initialized{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_credential_access{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_config_initialized{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_credential_access{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_config_initialized{source="utils"} 1
+# HELP config_manager_metrics CoPilot utility metrics
+# TYPE config_manager_metrics gauge
+config_manager_credential_access{source="utils"} 1

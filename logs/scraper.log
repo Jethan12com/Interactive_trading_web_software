@@ -1,0 +1,407 @@
+2025-10-02 09:18:02,796 - INFO - Logging initialized to file successfully
+2025-10-02 09:33:16,639 - INFO - Logging initialized to file successfully
+2025-10-02 09:44:44,657 - INFO - Logging initialized to file successfully
+2025-10-02 19:29:45,839 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 19:29:45,839 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'MT5_PATH']. Using alternatives.
+2025-10-02 19:29:45,839 - INFO - API keys loaded; using alternatives where needed.
+2025-10-02 19:29:45,841 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:29:45,841 - ERROR - Unexpected error for GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:29:47,178 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 19:29:47,179 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 19:29:47,179 - ERROR - Unexpected error for GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:29:49,180 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:29:49,180 - ERROR - Unexpected error for GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:29:49,780 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 19:29:49,780 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 19:29:49,780 - ERROR - Unexpected error for GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:29:53,794 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:29:53,795 - ERROR - Unexpected error for GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:29:54,452 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 19:29:54,452 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 19:29:54,452 - ERROR - Unexpected error for GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:48:08,907 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 19:48:08,908 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 19:48:08,908 - INFO - API keys loaded; using alternatives where needed.
+2025-10-02 19:48:08,910 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:48:08,910 - ERROR - Unexpected error for GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:48:09,780 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 19:48:09,780 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 19:48:09,780 - ERROR - Unexpected error for GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:48:11,781 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:48:11,782 - ERROR - Unexpected error for GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:48:12,492 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 19:48:12,492 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 19:48:12,492 - ERROR - Unexpected error for GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:48:16,497 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:48:16,497 - ERROR - Unexpected error for GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:48:17,097 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 19:48:17,097 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 19:48:17,097 - ERROR - Unexpected error for GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:56:38,487 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 19:56:38,488 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 19:56:38,488 - INFO - API keys loaded; using alternatives where needed.
+2025-10-02 19:56:38,488 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 19:56:38,488 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 19:56:38,492 - ERROR - Error fetching EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:56:38,492 - ERROR - Error fetching GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:56:39,280 - ERROR - Error fetching BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 19:56:40,306 - ERROR - Error fetching ETH/USDT: No price fetched for ETH/USDT
+2025-10-02 19:56:40,306 - ERROR - Error fetching AAPL: No price fetched for AAPL
+2025-10-02 19:56:40,306 - ERROR - Error fetching GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:56:42,307 - ERROR - Error fetching EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:56:42,307 - ERROR - Error fetching GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:56:43,046 - ERROR - Error fetching BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 19:56:43,645 - ERROR - Error fetching ETH/USDT: No price fetched for ETH/USDT
+2025-10-02 19:56:43,646 - ERROR - Error fetching AAPL: No price fetched for AAPL
+2025-10-02 19:56:43,646 - ERROR - Error fetching GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:56:47,648 - ERROR - Error fetching EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:56:47,649 - ERROR - Error fetching GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:56:48,297 - ERROR - Error fetching BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 19:56:48,958 - ERROR - Error fetching ETH/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=eth&vs_currencies=usd
+2025-10-02 19:56:48,958 - ERROR - Error fetching AAPL: No price fetched for AAPL
+2025-10-02 19:56:48,958 - ERROR - Error fetching GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:56:48,961 - ERROR - Error fetching EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:56:48,961 - ERROR - Error fetching GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:56:49,700 - ERROR - Error fetching BTC/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=btc&vs_currencies=usd
+2025-10-02 19:56:50,244 - ERROR - Error fetching ETH/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=eth&vs_currencies=usd
+2025-10-02 19:56:50,244 - ERROR - Error fetching AAPL: No price fetched for AAPL
+2025-10-02 19:56:50,244 - ERROR - Error fetching GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:56:52,245 - ERROR - Error fetching EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:56:52,245 - ERROR - Error fetching GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:56:52,900 - ERROR - Error fetching BTC/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=btc&vs_currencies=usd
+2025-10-02 19:56:53,495 - ERROR - Error fetching ETH/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=eth&vs_currencies=usd
+2025-10-02 19:56:53,495 - ERROR - Error fetching AAPL: No price fetched for AAPL
+2025-10-02 19:56:53,495 - ERROR - Error fetching GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:56:57,496 - ERROR - Error fetching EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:56:57,497 - ERROR - Error fetching GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:56:58,063 - ERROR - Error fetching BTC/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=btc&vs_currencies=usd
+2025-10-02 19:56:58,706 - ERROR - Error fetching ETH/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=eth&vs_currencies=usd
+2025-10-02 19:56:58,707 - ERROR - Error fetching AAPL: No price fetched for AAPL
+2025-10-02 19:56:58,707 - ERROR - Error fetching GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:56:58,709 - ERROR - Error fetching EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:56:58,709 - ERROR - Error fetching GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:56:59,306 - ERROR - Error fetching BTC/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=btc&vs_currencies=usd
+2025-10-02 19:56:59,846 - ERROR - Error fetching ETH/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=eth&vs_currencies=usd
+2025-10-02 19:56:59,846 - ERROR - Error fetching AAPL: No price fetched for AAPL
+2025-10-02 19:56:59,846 - ERROR - Error fetching GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:57:01,847 - ERROR - Error fetching EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:57:01,847 - ERROR - Error fetching GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:57:02,632 - ERROR - Error fetching BTC/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=btc&vs_currencies=usd
+2025-10-02 19:57:03,333 - ERROR - Error fetching ETH/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=eth&vs_currencies=usd
+2025-10-02 19:57:03,333 - ERROR - Error fetching AAPL: No price fetched for AAPL
+2025-10-02 19:57:03,333 - ERROR - Error fetching GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 19:57:07,335 - ERROR - Error fetching EUR/USD: No price fetched for EUR/USD
+2025-10-02 19:57:07,335 - ERROR - Error fetching GBP/USD: No price fetched for GBP/USD
+2025-10-02 19:57:07,985 - ERROR - Error fetching BTC/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=btc&vs_currencies=usd
+2025-10-02 19:57:08,573 - ERROR - Error fetching ETH/USDT: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=eth&vs_currencies=usd
+2025-10-02 19:57:08,573 - ERROR - Error fetching AAPL: No price fetched for AAPL
+2025-10-02 19:57:08,573 - ERROR - Error fetching GOLD/USD: No price fetched for GOLD/USD
+2025-10-02 20:06:34,585 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 20:06:34,586 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 20:06:34,586 - INFO - API keys loaded; using alternatives where needed.
+2025-10-02 20:06:34,586 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 20:06:34,586 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 20:06:34,589 - ERROR - No price fetched for EUR/USD
+2025-10-02 20:06:34,589 - ERROR - No price fetched for GBP/USD
+2025-10-02 20:06:35,463 - INFO - Fetched BTC/USDT price 120667 from CoinGecko
+2025-10-02 20:06:36,114 - INFO - Fetched ETH/USDT price 4491.43 from CoinGecko
+2025-10-02 20:06:36,114 - ERROR - No price fetched for AAPL
+2025-10-02 20:06:36,115 - ERROR - No price fetched for GOLD/USD
+2025-10-02 20:07:37,142 - ERROR - No price fetched for EUR/USD
+2025-10-02 20:07:37,142 - ERROR - No price fetched for GBP/USD
+2025-10-02 20:07:37,755 - INFO - Fetched BTC/USDT price 120718 from CoinGecko
+2025-10-02 20:07:38,348 - INFO - Fetched ETH/USDT price 4492.17 from CoinGecko
+2025-10-02 20:07:38,348 - ERROR - No price fetched for AAPL
+2025-10-02 20:07:38,348 - ERROR - No price fetched for GOLD/USD
+2025-10-02 20:08:39,242 - ERROR - No price fetched for EUR/USD
+2025-10-02 20:08:39,243 - ERROR - No price fetched for GBP/USD
+2025-10-02 20:08:39,801 - INFO - Fetched BTC/USDT price 120801 from CoinGecko
+2025-10-02 20:08:40,387 - INFO - Fetched ETH/USDT price 4492.18 from CoinGecko
+2025-10-02 20:08:40,387 - ERROR - No price fetched for AAPL
+2025-10-02 20:08:40,387 - ERROR - No price fetched for GOLD/USD
+2025-10-02 20:16:44,635 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 20:16:44,636 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 20:16:44,636 - INFO - API keys loaded; using alternatives where needed.
+2025-10-02 20:16:44,636 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 20:16:44,636 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 20:16:44,637 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 20:16:44,637 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 20:16:44,638 - INFO - Iteration 1 start
+2025-10-02 20:16:45,584 - INFO - Fetched BTC/USDT price 121047 from CoinGecko
+2025-10-02 20:16:46,222 - INFO - Fetched ETH/USDT price 4515.69 from CoinGecko
+2025-10-02 20:16:46,809 - INFO - Fetched SOL/USDT price 233.44 from CoinGecko
+2025-10-02 20:16:46,809 - ERROR - No price fetched for EUR/USD
+2025-10-02 20:16:46,809 - ERROR - No price fetched for GBP/USD
+2025-10-02 20:16:46,809 - ERROR - No price fetched for USD/JPY
+2025-10-02 20:16:46,809 - ERROR - No price fetched for AAPL
+2025-10-02 20:16:46,809 - ERROR - No price fetched for GOOG
+2025-10-02 20:16:46,809 - ERROR - No price fetched for MSFT
+2025-10-02 20:16:46,809 - ERROR - No price fetched for GOLD/USD
+2025-10-02 20:16:46,810 - ERROR - No price fetched for SILVER/USD
+2025-10-02 20:16:47,781 - INFO - Iteration 1 completed successfully
+2025-10-02 20:17:47,783 - INFO - Iteration 2 start
+2025-10-02 20:17:48,548 - INFO - Fetched BTC/USDT price 121040 from CoinGecko
+2025-10-02 20:17:49,163 - INFO - Fetched ETH/USDT price 4514.17 from CoinGecko
+2025-10-02 20:17:49,729 - INFO - Fetched SOL/USDT price 233.4 from CoinGecko
+2025-10-02 20:17:49,729 - ERROR - No price fetched for EUR/USD
+2025-10-02 20:17:49,729 - ERROR - No price fetched for GBP/USD
+2025-10-02 20:17:49,729 - ERROR - No price fetched for USD/JPY
+2025-10-02 20:17:49,729 - ERROR - No price fetched for AAPL
+2025-10-02 20:17:49,729 - ERROR - No price fetched for GOOG
+2025-10-02 20:17:49,729 - ERROR - No price fetched for MSFT
+2025-10-02 20:17:49,729 - ERROR - No price fetched for GOLD/USD
+2025-10-02 20:17:49,729 - ERROR - No price fetched for SILVER/USD
+2025-10-02 20:17:50,697 - INFO - Iteration 2 completed successfully
+2025-10-02 20:18:50,702 - INFO - Iteration 3 start
+2025-10-02 20:18:51,562 - INFO - Fetched BTC/USDT price 121046 from CoinGecko
+2025-10-02 20:18:52,096 - INFO - Fetched ETH/USDT price 4513.69 from CoinGecko
+2025-10-02 20:18:52,658 - INFO - Fetched SOL/USDT price 233.37 from CoinGecko
+2025-10-02 20:18:52,658 - ERROR - No price fetched for EUR/USD
+2025-10-02 20:18:52,658 - ERROR - No price fetched for GBP/USD
+2025-10-02 20:18:52,658 - ERROR - No price fetched for USD/JPY
+2025-10-02 20:18:52,658 - ERROR - No price fetched for AAPL
+2025-10-02 20:18:52,658 - ERROR - No price fetched for GOOG
+2025-10-02 20:18:52,658 - ERROR - No price fetched for MSFT
+2025-10-02 20:18:52,658 - ERROR - No price fetched for GOLD/USD
+2025-10-02 20:18:52,658 - ERROR - No price fetched for SILVER/USD
+2025-10-02 20:18:55,049 - INFO - Iteration 3 completed successfully
+2025-10-02 20:19:55,052 - INFO - Iteration 4 start
+2025-10-02 20:19:55,625 - INFO - Fetched BTC/USDT price 120980 from CoinGecko
+2025-10-02 20:19:56,242 - INFO - Fetched ETH/USDT price 4509.09 from CoinGecko
+2025-10-02 20:19:57,115 - INFO - Fetched SOL/USDT price 233.29 from CoinGecko
+2025-10-02 20:19:57,115 - ERROR - No price fetched for EUR/USD
+2025-10-02 20:19:57,115 - ERROR - No price fetched for GBP/USD
+2025-10-02 20:19:57,115 - ERROR - No price fetched for USD/JPY
+2025-10-02 20:19:57,115 - ERROR - No price fetched for AAPL
+2025-10-02 20:19:57,115 - ERROR - No price fetched for GOOG
+2025-10-02 20:19:57,115 - ERROR - No price fetched for MSFT
+2025-10-02 20:19:57,115 - ERROR - No price fetched for GOLD/USD
+2025-10-02 20:19:57,115 - ERROR - No price fetched for SILVER/USD
+2025-10-02 20:19:58,109 - INFO - Iteration 4 completed successfully
+2025-10-02 20:20:58,130 - INFO - Iteration 5 start
+2025-10-02 20:20:58,785 - INFO - Fetched BTC/USDT price 121007 from CoinGecko
+2025-10-02 20:20:59,433 - INFO - Fetched ETH/USDT price 4508.41 from CoinGecko
+2025-10-02 20:21:00,044 - INFO - Fetched SOL/USDT price 233.26 from CoinGecko
+2025-10-02 20:21:00,044 - ERROR - No price fetched for EUR/USD
+2025-10-02 20:21:00,044 - ERROR - No price fetched for GBP/USD
+2025-10-02 20:21:00,044 - ERROR - No price fetched for USD/JPY
+2025-10-02 20:21:00,044 - ERROR - No price fetched for AAPL
+2025-10-02 20:21:00,044 - ERROR - No price fetched for GOOG
+2025-10-02 20:21:00,044 - ERROR - No price fetched for MSFT
+2025-10-02 20:21:00,044 - ERROR - No price fetched for GOLD/USD
+2025-10-02 20:21:00,045 - ERROR - No price fetched for SILVER/USD
+2025-10-02 20:21:01,046 - INFO - Iteration 5 completed successfully
+2025-10-02 21:00:36,279 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 21:00:36,279 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 21:00:36,279 - INFO - API keys loaded; using alternatives where needed.
+2025-10-02 21:00:36,279 - INFO - Starting utils.py live data test...
+2025-10-02 21:00:36,279 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 21:00:36,279 - ERROR - Unexpected error for USD/JPY: No price fetched for USD/JPY
+2025-10-02 21:00:37,161 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 21:00:38,328 - ERROR - Unexpected error for ETH/USDT: No price fetched for ETH/USDT
+2025-10-02 21:00:38,328 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 21:00:38,328 - ERROR - Unexpected error for MSFT: No price fetched for MSFT
+2025-10-02 21:00:40,336 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 21:00:40,336 - ERROR - Unexpected error for USD/JPY: No price fetched for USD/JPY
+2025-10-02 21:00:41,054 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 21:00:41,779 - ERROR - Unexpected error for ETH/USDT: No price fetched for ETH/USDT
+2025-10-02 21:00:41,779 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 21:00:41,779 - ERROR - Unexpected error for MSFT: No price fetched for MSFT
+2025-10-02 21:00:45,788 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 21:00:45,788 - ERROR - Unexpected error for USD/JPY: No price fetched for USD/JPY
+2025-10-02 21:00:46,482 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 21:00:47,296 - WARNING - Rate limit hit for ETH/USDT; sleeping 10s
+2025-10-02 21:00:57,303 - ERROR - fetch_live_market_data failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=eth&vs_currencies=usd
+2025-10-02 21:00:58,377 - INFO - _fetch_forex_factory success: []
+2025-10-02 21:00:58,377 - WARNING - No events fetched from Forex Factory
+2025-10-02 21:11:21,265 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 21:11:21,265 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 21:11:21,265 - INFO - API keys loaded; using alternatives where needed.
+2025-10-02 21:13:49,638 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 21:13:49,638 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 21:13:49,638 - INFO - API keys loaded; using alternatives where needed.
+2025-10-02 21:13:49,638 - INFO - Starting utils.py live data test...
+2025-10-02 21:13:49,638 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 21:13:49,638 - ERROR - Unexpected error for USD/JPY: No price fetched for USD/JPY
+2025-10-02 21:13:50,686 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 21:13:51,624 - ERROR - Unexpected error for ETH/USDT: No price fetched for ETH/USDT
+2025-10-02 21:13:51,624 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 21:13:51,624 - ERROR - Unexpected error for MSFT: No price fetched for MSFT
+2025-10-02 21:13:53,636 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 21:13:53,636 - ERROR - Unexpected error for USD/JPY: No price fetched for USD/JPY
+2025-10-02 21:13:54,249 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 21:13:54,951 - ERROR - Unexpected error for ETH/USDT: No price fetched for ETH/USDT
+2025-10-02 21:13:54,951 - ERROR - Unexpected error for AAPL: No price fetched for AAPL
+2025-10-02 21:13:54,951 - ERROR - Unexpected error for MSFT: No price fetched for MSFT
+2025-10-02 21:13:58,963 - ERROR - Unexpected error for EUR/USD: No price fetched for EUR/USD
+2025-10-02 21:13:58,963 - ERROR - Unexpected error for USD/JPY: No price fetched for USD/JPY
+2025-10-02 21:13:59,710 - ERROR - Unexpected error for BTC/USDT: No price fetched for BTC/USDT
+2025-10-02 21:14:00,467 - WARNING - Rate limit hit for ETH/USDT; sleeping 30s
+2025-10-02 21:14:30,479 - ERROR - fetch_live_market_data failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=btc,eth&vs_currencies=usd
+2025-10-02 21:14:31,594 - INFO - _fetch_forex_factory success: []
+2025-10-02 21:14:31,594 - WARNING - No events fetched from Forex Factory
+2025-10-02 21:32:36,955 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 21:32:36,955 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 21:32:36,955 - INFO - API keys loaded; using alternatives where needed.
+2025-10-02 21:32:36,955 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 21:32:36,955 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 21:32:36,955 - INFO - Iteration 1 start
+2025-10-02 21:32:38,420 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:32:38,420 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:32:39,149 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:32:39,149 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:32:39,719 - INFO - Fetched SOL/USDT from CoinGecko: None
+2025-10-02 21:32:39,719 - ERROR - No price or cache for SOL/USDT
+2025-10-02 21:32:39,719 - ERROR - No price or cache for EUR/USD
+2025-10-02 21:32:39,719 - ERROR - No price or cache for GBP/USD
+2025-10-02 21:32:39,719 - ERROR - No price or cache for USD/JPY
+2025-10-02 21:32:39,719 - ERROR - No price or cache for AAPL
+2025-10-02 21:32:39,719 - ERROR - No price or cache for GOOG
+2025-10-02 21:32:39,719 - ERROR - No price or cache for MSFT
+2025-10-02 21:32:39,719 - ERROR - No price or cache for GOLD/USD
+2025-10-02 21:32:39,719 - ERROR - No price or cache for SILVER/USD
+2025-10-02 21:32:42,590 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:32:42,590 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:32:43,310 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:32:43,310 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:32:44,343 - WARNING - CoinGecko rate limit hit for SOL/USDT; sleeping 60s
+2025-10-02 21:33:44,355 - WARNING - Rate limit hit for SOL/USDT; sleeping 60s
+2025-10-02 21:34:49,775 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:34:49,775 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:34:50,916 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:34:50,916 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:34:51,929 - INFO - Fetched SOL/USDT from CoinGecko: None
+2025-10-02 21:34:51,967 - ERROR - No price or cache for SOL/USDT
+2025-10-02 21:34:51,967 - ERROR - No price or cache for EUR/USD
+2025-10-02 21:34:51,967 - ERROR - No price or cache for GBP/USD
+2025-10-02 21:34:51,967 - ERROR - No price or cache for USD/JPY
+2025-10-02 21:34:51,967 - ERROR - No price or cache for AAPL
+2025-10-02 21:34:51,967 - ERROR - No price or cache for GOOG
+2025-10-02 21:34:51,967 - ERROR - No price or cache for MSFT
+2025-10-02 21:34:51,967 - ERROR - No price or cache for GOLD/USD
+2025-10-02 21:34:51,967 - ERROR - No price or cache for SILVER/USD
+2025-10-02 21:34:51,967 - ERROR - Error in iteration 1: No data fetched from APIs or cache.
+2025-10-02 21:35:51,969 - INFO - Iteration 2 start
+2025-10-02 21:35:53,467 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:35:53,467 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:35:54,279 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:35:54,279 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:35:55,219 - INFO - Fetched SOL/USDT from CoinGecko: None
+2025-10-02 21:35:55,219 - ERROR - No price or cache for SOL/USDT
+2025-10-02 21:35:55,219 - ERROR - No price or cache for EUR/USD
+2025-10-02 21:35:55,219 - ERROR - No price or cache for GBP/USD
+2025-10-02 21:35:55,219 - ERROR - No price or cache for USD/JPY
+2025-10-02 21:35:55,219 - ERROR - No price or cache for AAPL
+2025-10-02 21:35:55,219 - ERROR - No price or cache for GOOG
+2025-10-02 21:35:55,219 - ERROR - No price or cache for MSFT
+2025-10-02 21:35:55,219 - ERROR - No price or cache for GOLD/USD
+2025-10-02 21:35:55,219 - ERROR - No price or cache for SILVER/USD
+2025-10-02 21:35:57,874 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:35:57,874 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:35:58,590 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:35:58,625 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:35:59,527 - WARNING - CoinGecko rate limit hit for SOL/USDT; sleeping 60s
+2025-10-02 21:36:59,534 - WARNING - Rate limit hit for SOL/USDT; sleeping 60s
+2025-10-02 21:38:04,850 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:38:04,850 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:38:05,771 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:38:05,771 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:38:06,682 - INFO - Fetched SOL/USDT from CoinGecko: None
+2025-10-02 21:38:06,682 - ERROR - No price or cache for SOL/USDT
+2025-10-02 21:38:06,682 - ERROR - No price or cache for EUR/USD
+2025-10-02 21:38:06,682 - ERROR - No price or cache for GBP/USD
+2025-10-02 21:38:06,682 - ERROR - No price or cache for USD/JPY
+2025-10-02 21:38:06,682 - ERROR - No price or cache for AAPL
+2025-10-02 21:38:06,682 - ERROR - No price or cache for GOOG
+2025-10-02 21:38:06,682 - ERROR - No price or cache for MSFT
+2025-10-02 21:38:06,682 - ERROR - No price or cache for GOLD/USD
+2025-10-02 21:38:06,682 - ERROR - No price or cache for SILVER/USD
+2025-10-02 21:38:06,698 - ERROR - Error in iteration 2: No data fetched from APIs or cache.
+2025-10-02 21:39:06,706 - INFO - Iteration 3 start
+2025-10-02 21:39:07,689 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:39:07,689 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:39:08,451 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:39:08,451 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:39:09,264 - INFO - Fetched SOL/USDT from CoinGecko: None
+2025-10-02 21:39:09,264 - ERROR - No price or cache for SOL/USDT
+2025-10-02 21:39:09,264 - ERROR - No price or cache for EUR/USD
+2025-10-02 21:39:09,264 - ERROR - No price or cache for GBP/USD
+2025-10-02 21:39:09,264 - ERROR - No price or cache for USD/JPY
+2025-10-02 21:39:09,267 - ERROR - No price or cache for AAPL
+2025-10-02 21:39:09,267 - ERROR - No price or cache for GOOG
+2025-10-02 21:39:09,267 - ERROR - No price or cache for MSFT
+2025-10-02 21:39:09,267 - ERROR - No price or cache for GOLD/USD
+2025-10-02 21:39:09,267 - ERROR - No price or cache for SILVER/USD
+2025-10-02 21:39:12,023 - WARNING - CoinGecko rate limit hit for BTC/USDT; sleeping 60s
+2025-10-02 21:40:12,036 - WARNING - Rate limit hit for BTC/USDT; sleeping 60s
+2025-10-02 21:41:16,947 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:41:16,947 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:41:17,789 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:41:17,789 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:41:18,490 - INFO - Fetched SOL/USDT from CoinGecko: None
+2025-10-02 21:41:18,490 - ERROR - No price or cache for SOL/USDT
+2025-10-02 21:41:18,490 - ERROR - No price or cache for EUR/USD
+2025-10-02 21:41:18,490 - ERROR - No price or cache for GBP/USD
+2025-10-02 21:41:18,490 - ERROR - No price or cache for USD/JPY
+2025-10-02 21:41:18,490 - ERROR - No price or cache for AAPL
+2025-10-02 21:41:18,490 - ERROR - No price or cache for GOOG
+2025-10-02 21:41:18,490 - ERROR - No price or cache for MSFT
+2025-10-02 21:41:18,490 - ERROR - No price or cache for GOLD/USD
+2025-10-02 21:41:18,490 - ERROR - No price or cache for SILVER/USD
+2025-10-02 21:41:18,490 - ERROR - Error in iteration 3: No data fetched from APIs or cache.
+2025-10-02 21:42:18,493 - INFO - Iteration 4 start
+2025-10-02 21:42:19,871 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:42:19,872 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:42:20,644 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:42:20,644 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:42:21,479 - INFO - Fetched SOL/USDT from CoinGecko: None
+2025-10-02 21:42:21,479 - ERROR - No price or cache for SOL/USDT
+2025-10-02 21:42:21,479 - ERROR - No price or cache for EUR/USD
+2025-10-02 21:42:21,479 - ERROR - No price or cache for GBP/USD
+2025-10-02 21:42:21,479 - ERROR - No price or cache for USD/JPY
+2025-10-02 21:42:21,479 - ERROR - No price or cache for AAPL
+2025-10-02 21:42:21,479 - ERROR - No price or cache for GOOG
+2025-10-02 21:42:21,479 - ERROR - No price or cache for MSFT
+2025-10-02 21:42:21,479 - ERROR - No price or cache for GOLD/USD
+2025-10-02 21:42:21,479 - ERROR - No price or cache for SILVER/USD
+2025-10-02 21:42:24,229 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:42:24,229 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:42:25,077 - WARNING - CoinGecko rate limit hit for ETH/USDT; sleeping 60s
+2025-10-02 21:43:25,084 - WARNING - Rate limit hit for ETH/USDT; sleeping 60s
+2025-10-02 21:44:30,080 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:44:30,080 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:44:30,692 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:44:30,692 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:44:31,410 - INFO - Fetched SOL/USDT from CoinGecko: None
+2025-10-02 21:44:31,410 - ERROR - No price or cache for SOL/USDT
+2025-10-02 21:44:31,410 - ERROR - No price or cache for EUR/USD
+2025-10-02 21:44:31,410 - ERROR - No price or cache for GBP/USD
+2025-10-02 21:44:31,410 - ERROR - No price or cache for USD/JPY
+2025-10-02 21:44:31,410 - ERROR - No price or cache for AAPL
+2025-10-02 21:44:31,410 - ERROR - No price or cache for GOOG
+2025-10-02 21:44:31,410 - ERROR - No price or cache for MSFT
+2025-10-02 21:44:31,410 - ERROR - No price or cache for GOLD/USD
+2025-10-02 21:44:31,410 - ERROR - No price or cache for SILVER/USD
+2025-10-02 21:44:31,426 - ERROR - Error in iteration 4: No data fetched from APIs or cache.
+2025-10-02 21:45:31,432 - INFO - Iteration 5 start
+2025-10-02 21:45:32,544 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:45:32,544 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:45:33,262 - INFO - Fetched ETH/USDT from CoinGecko: None
+2025-10-02 21:45:33,262 - ERROR - No price or cache for ETH/USDT
+2025-10-02 21:45:34,077 - INFO - Fetched SOL/USDT from CoinGecko: None
+2025-10-02 21:45:34,077 - ERROR - No price or cache for SOL/USDT
+2025-10-02 21:45:34,077 - ERROR - No price or cache for EUR/USD
+2025-10-02 21:45:34,077 - ERROR - No price or cache for GBP/USD
+2025-10-02 21:45:34,077 - ERROR - No price or cache for USD/JPY
+2025-10-02 21:45:34,077 - ERROR - No price or cache for AAPL
+2025-10-02 21:45:34,077 - ERROR - No price or cache for GOOG
+2025-10-02 21:45:34,084 - ERROR - No price or cache for MSFT
+2025-10-02 21:45:34,084 - ERROR - No price or cache for GOLD/USD
+2025-10-02 21:45:34,084 - ERROR - No price or cache for SILVER/USD
+2025-10-02 21:45:36,840 - INFO - Fetched BTC/USDT from CoinGecko: None
+2025-10-02 21:45:36,840 - ERROR - No price or cache for BTC/USDT
+2025-10-02 21:45:37,756 - WARNING - CoinGecko rate limit hit for ETH/USDT; sleeping 60s
+2025-10-02 21:46:37,770 - WARNING - Rate limit hit for ETH/USDT; sleeping 60s
+2025-10-02 21:47:05,226 - INFO - Loaded API keys from config/credentials.json
+2025-10-02 21:47:05,226 - WARNING - Missing API keys: ['ALPHA_VANTAGE_KEY', 'FINNHUB_KEY', 'BINANCE_API_KEY', 'BINANCE_API_SECRET', 'MT5_PATH', 'OANDA_API_KEY', 'OANDA_ACCOUNT_ID']. Using alternatives.
+2025-10-02 21:47:05,226 - INFO - API keys loaded; using alternatives where needed.

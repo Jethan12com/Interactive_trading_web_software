@@ -1,0 +1,4 @@
+pair,timestamp,signal,adjusted_signal_score,tp,sl,session,risk_level,capital,pattern_id,volatility_score,volatility_method
+BTC/USDT,2025-10-04T06:00:00Z,BUY,0.8,50000,49000,New York,Medium,1000,Bullish Engulfing,0.02,GARCH
+EUR/USD,2025-10-04T06:00:00Z,SELL,0.7,1.2,1.18,New York,Medium,1000,None,0.01,GARCH
+XAU/USD,2025-10-04T06:00:00Z,BUY,0.75,2500,2450,New York,Medium,1000,Morning Star,0.015,GARCH

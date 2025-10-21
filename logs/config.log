@@ -1,0 +1,32 @@
+2025-10-05 23:02:47,490 - INFO - \u2705 Loaded settings from config/settings.yaml
+2025-10-05 23:02:47,491 - INFO - \u2705 Loaded credentials from config/credentials.json
+2025-10-05 23:02:52,385 - WARNING - MT5 init failed; using mock
+2025-10-05 23:02:52,386 - INFO - Using MT5DataProvider
+2025-10-05 23:02:52,402 - INFO - NewsAPI initialized
+2025-10-05 23:02:52,581 - INFO - Starting live signal pipeline
+2025-10-05 23:13:32,390 - INFO - \u2705 Loaded settings from config/settings.yaml
+2025-10-05 23:13:32,393 - INFO - \u2705 Loaded credentials from config/credentials.json
+2025-10-05 23:13:32,394 - WARNING - \u26a0\ufe0f Missing API key for provider 'binance'
+2025-10-05 23:13:43,685 - WARNING - \u26a0\ufe0f Binance API unavailable: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B253C734D0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2025-10-05 23:13:49,324 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-05 23:14:09,261 - INFO - \u2705 Loaded settings from config/settings.yaml
+2025-10-05 23:14:09,262 - INFO - \u2705 Loaded credentials from config/credentials.json
+2025-10-05 23:14:09,263 - WARNING - \u26a0\ufe0f Missing API key for provider 'binance'
+2025-10-05 23:14:20,510 - WARNING - \u26a0\ufe0f Binance API unavailable: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B253D8D1D0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2025-10-05 23:14:24,651 - INFO - \u2705 Loaded settings from config/settings.yaml
+2025-10-05 23:14:24,653 - INFO - \u2705 Loaded credentials from config/credentials.json
+2025-10-05 23:14:24,653 - WARNING - \u26a0\ufe0f Missing API key for provider 'binance'
+2025-10-05 23:14:35,890 - WARNING - \u26a0\ufe0f Binance API unavailable: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B253D8EAD0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2025-10-05 23:14:38,186 - INFO - \u2705 Loaded settings from config/settings.yaml
+2025-10-05 23:14:38,187 - INFO - \u2705 Loaded credentials from config/credentials.json
+2025-10-05 23:14:38,187 - WARNING - \u26a0\ufe0f Missing API key for provider 'binance'
+2025-10-05 23:14:49,409 - WARNING - \u26a0\ufe0f Binance API unavailable: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B23835BC50>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2025-10-05 23:15:22,210 - INFO - \u2705 Loaded settings from config/settings.yaml
+2025-10-05 23:15:22,212 - INFO - \u2705 Loaded credentials from config/credentials.json
+2025-10-05 23:15:22,213 - WARNING - \u26a0\ufe0f Missing API key for provider 'binance'
+2025-10-05 23:15:33,446 - WARNING - \u26a0\ufe0f Binance API unavailable: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B253CE2990>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2025-10-05 23:16:00,304 - INFO - \u2705 Loaded settings from config/settings.yaml
+2025-10-05 23:16:00,307 - INFO - \u2705 Loaded credentials from config/credentials.json
+2025-10-05 23:16:00,308 - WARNING - \u26a0\ufe0f Missing API key for provider 'binance'
+2025-10-05 23:16:11,560 - WARNING - \u26a0\ufe0f Binance API unavailable: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/time (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B23835BB10>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))

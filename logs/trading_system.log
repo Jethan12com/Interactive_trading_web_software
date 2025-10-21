@@ -1,0 +1,458 @@
+2025-10-08 19:22:56,657 - INFO - Logged metrics to logs/config_manager_metrics.log: {'config_initialized': 1}
+2025-10-08 19:22:56,659 - INFO - ConfigManager initialized successfully.
+2025-10-08 19:22:56,659 - WARNING - No credentials found for apis.
+2025-10-08 19:22:56,681 - INFO - Loaded telegram credentials from environment.
+2025-10-08 19:22:56,683 - INFO - Logged metrics to logs/config_manager_metrics.log: {'credential_access': 1, 'service': 'telegram', 'source': 'env'}
+2025-10-08 19:22:56,784 - INFO - VaultSecretsManager initialized. Vault URL: http://localhost:8200
+2025-10-08 19:22:57,061 - INFO - Starting live signal pipeline
+2025-10-08 19:22:57,061 - ERROR - Pipeline initialization failed: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:22:57,065 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-10-08 19:22:57,069 - INFO - Added job "KeyRotator.rotate_keys" to job store "default"
+2025-10-08 19:22:57,069 - INFO - Scheduler started
+2025-10-08 19:22:57,070 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-10-08 19:22:57,070 - INFO - Added job "ModelTrainer.retrain_model" to job store "default"
+2025-10-08 19:22:57,070 - INFO - Scheduler started
+2025-10-08 19:22:57,070 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:23:57,112 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:24:57,203 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:25:57,307 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:26:57,387 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:27:57,450 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:28:57,502 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:29:57,529 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:30:57,548 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:31:57,623 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:32:57,726 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:33:58,121 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:34:58,180 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:35:58,188 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:51:08,182 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:52:08,371 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:53:08,462 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:54:08,552 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:55:08,628 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:56:08,739 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:57:08,822 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:58:08,925 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 19:59:09,018 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 20:00:09,141 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 20:01:09,387 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 20:02:09,813 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 20:03:10,645 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 20:04:11,190 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 20:05:11,692 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 20:06:12,221 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-08 20:07:12,806 - ERROR - Signal processing error: 'ConfigManager' object has no attribute 'get_pairs'
+2025-10-09 07:20:09,475 - WARNING - No config.json found. Using default config.
+2025-10-09 07:20:09,476 - INFO - Loaded credentials from environment variables
+2025-10-09 07:20:09,477 - INFO - ConfigManager initialized successfully
+2025-10-10 02:16:38,180 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-10 02:17:16,430 - WARNING - No config.json found. Using default config.
+2025-10-10 02:17:16,430 - INFO - Loaded credentials from environment variables
+2025-10-10 02:17:16,430 - INFO - ConfigManager initialized successfully
+2025-10-10 02:17:16,439 - WARNING - No config.json found. Using default config.
+2025-10-10 02:17:16,439 - INFO - Loaded credentials from environment variables
+2025-10-10 02:17:16,439 - INFO - ConfigManager initialized successfully
+2025-10-10 02:17:16,487 - WARNING - No config.json found. Using default config.
+2025-10-10 02:17:16,487 - INFO - Loaded credentials from environment variables
+2025-10-10 02:17:16,488 - INFO - ConfigManager initialized successfully
+2025-10-10 02:17:16,497 - WARNING - No config.json found. Using default config.
+2025-10-10 02:17:16,497 - INFO - Loaded credentials from environment variables
+2025-10-10 02:17:16,498 - INFO - ConfigManager initialized successfully
+2025-10-10 02:45:10,044 - WARNING - No config.json found. Using default config.
+2025-10-10 02:45:10,047 - INFO - Loaded credentials from environment variables
+2025-10-10 02:45:10,048 - INFO - ConfigManager initialized successfully
+2025-10-10 02:45:10,058 - WARNING - No config.json found. Using default config.
+2025-10-10 02:45:10,058 - INFO - Loaded credentials from environment variables
+2025-10-10 02:45:10,059 - INFO - ConfigManager initialized successfully
+2025-10-10 02:45:10,066 - WARNING - No config.json found. Using default config.
+2025-10-10 02:45:10,067 - INFO - Loaded credentials from environment variables
+2025-10-10 02:45:10,067 - INFO - ConfigManager initialized successfully
+2025-10-10 02:45:10,074 - WARNING - No config.json found. Using default config.
+2025-10-10 02:45:10,074 - INFO - Loaded credentials from environment variables
+2025-10-10 02:45:10,074 - INFO - ConfigManager initialized successfully
+2025-10-10 02:45:37,631 - WARNING - No config.json found. Using default config.
+2025-10-10 02:45:37,636 - INFO - Loaded credentials from environment variables
+2025-10-10 02:45:37,637 - INFO - ConfigManager initialized successfully
+2025-10-10 02:45:37,652 - WARNING - No config.json found. Using default config.
+2025-10-10 02:45:37,652 - INFO - Loaded credentials from environment variables
+2025-10-10 02:45:37,653 - INFO - ConfigManager initialized successfully
+2025-10-10 02:45:37,667 - WARNING - No config.json found. Using default config.
+2025-10-10 02:45:37,667 - INFO - Loaded credentials from environment variables
+2025-10-10 02:45:37,668 - INFO - ConfigManager initialized successfully
+2025-10-10 02:45:37,678 - WARNING - No config.json found. Using default config.
+2025-10-10 02:45:37,678 - INFO - Loaded credentials from environment variables
+2025-10-10 02:45:37,678 - INFO - ConfigManager initialized successfully
+2025-10-10 21:25:52,482 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-10 23:28:39,814 - WARNING - No config.json found. Using default config.
+2025-10-10 23:28:39,817 - INFO - Loaded credentials from environment variables
+2025-10-10 23:28:39,817 - INFO - ConfigManager initialized successfully
+2025-10-10 23:28:42,520 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3CEC5D30>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 00:31:24,596 - WARNING - No config.json found. Using default config.
+2025-10-11 00:31:24,605 - INFO - Loaded credentials from environment variables
+2025-10-11 00:31:24,605 - INFO - ConfigManager initialized successfully
+2025-10-11 00:31:27,385 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3A4F4B90>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 00:31:35,850 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-10-11 00:31:37,798 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-11 00:32:31,261 - WARNING - No config.json found. Using default config.
+2025-10-11 00:32:31,264 - INFO - Loaded credentials from environment variables
+2025-10-11 00:32:31,264 - INFO - ConfigManager initialized successfully
+2025-10-11 00:32:33,982 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3DAD4410>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 00:33:26,824 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-11 00:33:31,630 - WARNING - No config.json found. Using default config.
+2025-10-11 00:33:31,630 - INFO - Loaded credentials from environment variables
+2025-10-11 00:33:31,630 - INFO - ConfigManager initialized successfully
+2025-10-11 00:33:31,632 - WARNING - No config.json found. Using default config.
+2025-10-11 00:33:31,632 - INFO - Loaded credentials from environment variables
+2025-10-11 00:33:31,648 - INFO - ConfigManager initialized successfully
+2025-10-11 00:33:41,640 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-11 00:33:51,654 - WARNING - Error while downloading from https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+2025-10-11 00:34:01,471 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-11 00:35:00,555 - WARNING - Error while downloading from https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+2025-10-11 00:35:11,846 - WARNING - '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 5463c788-90e5-4d6c-bfe4-f4cd4ab26f66)')' thrown while requesting GET https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors
+2025-10-11 00:35:11,849 - WARNING - Retrying in 1s [Retry 1/5].
+2025-10-11 00:35:23,108 - WARNING - '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 205712fd-f66d-43be-9654-1d5ea4fbbf6e)')' thrown while requesting GET https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors
+2025-10-11 00:35:23,109 - WARNING - Retrying in 2s [Retry 2/5].
+2025-10-11 00:35:35,199 - WARNING - '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 6bb91b37-69a6-4777-9e8d-3ad6ef941a6c)')' thrown while requesting GET https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors
+2025-10-11 00:35:35,200 - WARNING - Retrying in 4s [Retry 3/5].
+2025-10-11 00:35:49,306 - WARNING - '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 8227b981-9f39-41b1-85e1-7cc2342c06ab)')' thrown while requesting GET https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors
+2025-10-11 00:35:49,311 - WARNING - Retrying in 8s [Retry 4/5].
+2025-10-11 00:36:07,498 - WARNING - '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 15a6477d-c49e-47b4-ac02-b79961d421d6)')' thrown while requesting GET https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors
+2025-10-11 00:36:07,499 - WARNING - Retrying in 8s [Retry 5/5].
+2025-10-11 00:36:25,644 - WARNING - '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: abc143d0-6205-4fae-a0da-e9538ec6c799)')' thrown while requesting GET https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors
+2025-10-11 07:41:26,284 - WARNING - No config.json found. Using default config.
+2025-10-11 07:41:26,289 - INFO - Loaded credentials from environment variables
+2025-10-11 07:41:26,289 - INFO - ConfigManager initialized successfully
+2025-10-11 07:41:29,016 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3D9CBE10>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 07:41:31,842 - WARNING - No config.json found. Using default config.
+2025-10-11 07:41:31,849 - INFO - Loaded credentials from environment variables
+2025-10-11 07:41:31,854 - INFO - ConfigManager initialized successfully
+2025-10-11 07:41:33,432 - WARNING - No config.json found. Using default config.
+2025-10-11 07:41:33,432 - INFO - Loaded credentials from environment variables
+2025-10-11 07:41:33,432 - INFO - ConfigManager initialized successfully
+2025-10-11 07:41:33,523 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-11 07:41:43,746 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3D9CBCE0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 07:41:47,301 - WARNING - No config.json found. Using default config.
+2025-10-11 07:41:47,301 - INFO - Loaded credentials from environment variables
+2025-10-11 07:41:47,301 - INFO - ConfigManager initialized successfully
+2025-10-11 07:41:48,964 - WARNING - No config.json found. Using default config.
+2025-10-11 07:41:48,964 - INFO - Loaded credentials from environment variables
+2025-10-11 07:41:48,965 - INFO - ConfigManager initialized successfully
+2025-10-11 07:41:51,665 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3EB4B890>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 07:41:56,579 - WARNING - No config.json found. Using default config.
+2025-10-11 07:41:56,580 - INFO - Loaded credentials from environment variables
+2025-10-11 07:41:56,580 - INFO - ConfigManager initialized successfully
+2025-10-11 07:59:28,756 - WARNING - No config.json found. Using default config.
+2025-10-11 07:59:28,759 - INFO - Loaded credentials from environment variables
+2025-10-11 07:59:28,759 - INFO - ConfigManager initialized successfully
+2025-10-11 07:59:31,472 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3EF54C00>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 07:59:33,821 - WARNING - No config.json found. Using default config.
+2025-10-11 07:59:33,829 - INFO - Loaded credentials from environment variables
+2025-10-11 07:59:33,832 - INFO - ConfigManager initialized successfully
+2025-10-11 07:59:36,330 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3EF54D10>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 07:59:37,176 - WARNING - No config.json found. Using default config.
+2025-10-11 07:59:37,177 - INFO - Loaded credentials from environment variables
+2025-10-11 07:59:37,177 - INFO - ConfigManager initialized successfully
+2025-10-11 07:59:44,722 - WARNING - No config.json found. Using default config.
+2025-10-11 07:59:44,730 - INFO - Loaded credentials from environment variables
+2025-10-11 07:59:44,730 - INFO - ConfigManager initialized successfully
+2025-10-11 08:31:15,642 - WARNING - No config.json found. Using default config.
+2025-10-11 08:31:15,646 - INFO - Loaded credentials from environment variables
+2025-10-11 08:31:15,647 - INFO - ConfigManager initialized successfully
+2025-10-11 08:31:18,395 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B7A45D370>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 08:31:18,935 - WARNING - No config.json found. Using default config.
+2025-10-11 08:31:18,935 - INFO - Loaded credentials from environment variables
+2025-10-11 08:31:18,936 - INFO - ConfigManager initialized successfully
+2025-10-11 08:31:21,201 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3EF55E10>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 08:31:35,942 - WARNING - No config.json found. Using default config.
+2025-10-11 08:31:35,942 - WARNING - No config.json found. Using default config.
+2025-10-11 08:31:35,942 - INFO - Loaded credentials from environment variables
+2025-10-11 08:31:35,942 - INFO - Loaded credentials from environment variables
+2025-10-11 08:31:35,943 - INFO - ConfigManager initialized successfully
+2025-10-11 08:31:35,943 - INFO - ConfigManager initialized successfully
+2025-10-11 08:46:03,790 - WARNING - No config.json found. Using default config.
+2025-10-11 08:46:03,793 - INFO - Loaded credentials from environment variables
+2025-10-11 08:46:03,793 - INFO - ConfigManager initialized successfully
+2025-10-11 08:46:06,506 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3D983020>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 08:46:07,252 - WARNING - No config.json found. Using default config.
+2025-10-11 08:46:07,253 - INFO - Loaded credentials from environment variables
+2025-10-11 08:46:07,253 - INFO - ConfigManager initialized successfully
+2025-10-11 08:46:09,549 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3CE6A7A0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 08:46:14,378 - WARNING - No config.json found. Using default config.
+2025-10-11 08:46:14,378 - INFO - Loaded credentials from environment variables
+2025-10-11 08:46:14,378 - INFO - ConfigManager initialized successfully
+2025-10-11 08:46:18,521 - WARNING - No config.json found. Using default config.
+2025-10-11 08:46:18,522 - INFO - Loaded credentials from environment variables
+2025-10-11 08:46:18,522 - INFO - ConfigManager initialized successfully
+2025-10-11 08:53:53,847 - WARNING - No config.json found. Using default config.
+2025-10-11 08:53:53,851 - INFO - Loaded credentials from environment variables
+2025-10-11 08:53:53,851 - INFO - ConfigManager initialized successfully
+2025-10-11 08:53:55,850 - WARNING - No config.json found. Using default config.
+2025-10-11 08:53:55,851 - INFO - Loaded credentials from environment variables
+2025-10-11 08:53:55,851 - INFO - ConfigManager initialized successfully
+2025-10-11 08:53:56,580 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3D982BE0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 08:53:58,124 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000024B3A3F38A0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 08:54:03,839 - WARNING - No config.json found. Using default config.
+2025-10-11 08:54:03,840 - INFO - Loaded credentials from environment variables
+2025-10-11 08:54:03,840 - INFO - ConfigManager initialized successfully
+2025-10-11 08:54:11,037 - WARNING - No config.json found. Using default config.
+2025-10-11 08:54:11,037 - INFO - Loaded credentials from environment variables
+2025-10-11 08:54:11,037 - INFO - ConfigManager initialized successfully
+2025-10-11 08:58:08,038 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-11 15:31:09,229 - WARNING - No config.json found. Using default config.
+2025-10-11 15:31:09,271 - INFO - Loaded credentials from environment variables
+2025-10-11 15:31:09,271 - INFO - ConfigManager initialized successfully
+2025-10-11 15:31:12,254 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001D7C80D0EC0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 15:37:56,713 - WARNING - No config.json found. Using default config.
+2025-10-11 15:37:56,716 - INFO - Loaded credentials from environment variables
+2025-10-11 15:37:56,716 - INFO - ConfigManager initialized successfully
+2025-10-11 15:37:59,415 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001D7C01E82D0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 15:47:43,788 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-11 15:47:52,229 - WARNING - No config.json found. Using default config.
+2025-10-11 15:47:52,230 - INFO - Loaded credentials from environment variables
+2025-10-11 15:47:52,230 - INFO - ConfigManager initialized successfully
+2025-10-11 15:47:54,938 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002E113B1A510>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 15:51:02,328 - WARNING - No config.json found. Using default config.
+2025-10-11 15:51:02,334 - INFO - Loaded credentials from environment variables
+2025-10-11 15:51:02,334 - INFO - ConfigManager initialized successfully
+2025-10-11 15:51:05,079 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002E113B847D0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 18:14:10,212 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-11 20:25:31,982 - WARNING - No config.json found. Using default config.
+2025-10-11 20:25:31,990 - INFO - Loaded credentials from environment variables
+2025-10-11 20:25:31,990 - INFO - ConfigManager initialized successfully
+2025-10-11 20:25:34,789 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002AA74877B60>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 20:25:39,905 - WARNING - No config.json found. Using default config.
+2025-10-11 20:25:39,906 - INFO - Loaded credentials from environment variables
+2025-10-11 20:25:39,906 - INFO - ConfigManager initialized successfully
+2025-10-11 20:25:42,579 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002AA31FC2490>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 20:36:07,572 - WARNING - No config.json found. Using default config.
+2025-10-11 20:36:07,582 - INFO - Loaded credentials from environment variables
+2025-10-11 20:36:07,582 - INFO - ConfigManager initialized successfully
+2025-10-11 20:36:10,392 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002AA31FC3B10>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 20:36:27,452 - WARNING - No config.json found. Using default config.
+2025-10-11 20:36:27,452 - INFO - Loaded credentials from environment variables
+2025-10-11 20:36:27,452 - INFO - ConfigManager initialized successfully
+2025-10-11 20:36:30,156 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002AA320B6FD0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 20:47:59,626 - WARNING - No config.json found. Using default config.
+2025-10-11 20:47:59,630 - INFO - Loaded credentials from environment variables
+2025-10-11 20:47:59,630 - INFO - ConfigManager initialized successfully
+2025-10-11 20:48:02,324 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002AA320B7820>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 20:55:58,950 - WARNING - No config.json found. Using default config.
+2025-10-11 20:55:58,954 - INFO - Loaded credentials from environment variables
+2025-10-11 20:55:58,955 - INFO - ConfigManager initialized successfully
+2025-10-11 20:56:01,642 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002AA32079250>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 22:13:11,680 - WARNING - No config.json found. Using default config.
+2025-10-11 22:13:11,682 - INFO - Loaded credentials from environment variables
+2025-10-11 22:13:11,682 - INFO - ConfigManager initialized successfully
+2025-10-11 22:13:14,392 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002AA31F73130>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 22:32:57,618 - WARNING - From C:\Users\tekno asya\Desktop\copilot\forex_env\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-11 22:33:21,141 - WARNING - No config file found — using default configuration.
+2025-10-11 22:33:21,142 - INFO - Loaded credentials from environment variables
+2025-10-11 22:33:21,143 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-11 22:33:23,856 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029298DAE7B0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 22:33:23,863 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-11 22:33:23,941 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-11 22:33:23,942 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-11 22:33:23,957 - WARNING - No config file found — using default configuration.
+2025-10-11 22:33:23,957 - INFO - Loaded credentials from environment variables
+2025-10-11 22:33:23,957 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-11 22:40:45,141 - WARNING - No config file found — using default configuration.
+2025-10-11 22:40:45,145 - INFO - Loaded credentials from environment variables
+2025-10-11 22:40:45,145 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-11 22:40:47,855 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029298E1FED0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 22:40:47,858 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-11 22:40:47,902 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-11 22:40:47,903 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-11 22:40:47,912 - WARNING - No config file found — using default configuration.
+2025-10-11 22:40:47,912 - INFO - Loaded credentials from environment variables
+2025-10-11 22:40:47,912 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-11 23:36:53,118 - WARNING - No config file found — using default configuration.
+2025-10-11 23:36:53,123 - INFO - Loaded credentials from environment variables
+2025-10-11 23:36:53,123 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-11 23:36:55,838 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029298E1F390>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 23:36:55,841 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-11 23:36:55,879 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-11 23:36:55,879 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-11 23:36:55,884 - WARNING - No config file found — using default configuration.
+2025-10-11 23:36:55,884 - INFO - Loaded credentials from environment variables
+2025-10-11 23:36:55,884 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-11 23:40:05,795 - WARNING - No config file found — using default configuration.
+2025-10-11 23:40:05,800 - INFO - Loaded credentials from environment variables
+2025-10-11 23:40:05,801 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-11 23:40:08,510 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000292991343E0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-11 23:40:08,513 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-11 23:40:08,542 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-11 23:40:08,543 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-11 23:40:08,550 - WARNING - No config file found — using default configuration.
+2025-10-11 23:40:08,550 - INFO - Loaded credentials from environment variables
+2025-10-11 23:40:08,550 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:00:50,114 - WARNING - No config file found — using default configuration.
+2025-10-12 00:00:50,119 - INFO - Loaded credentials from environment variables
+2025-10-12 00:00:50,119 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:00:52,832 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000292991375C0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:00:52,844 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:00:52,902 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:00:52,902 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:00:52,913 - WARNING - No config file found — using default configuration.
+2025-10-12 00:00:52,913 - INFO - Loaded credentials from environment variables
+2025-10-12 00:00:52,914 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:00:57,092 - WARNING - No config file found — using default configuration.
+2025-10-12 00:00:57,092 - INFO - Loaded credentials from environment variables
+2025-10-12 00:00:57,093 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:00:59,793 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299111EB0>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:00:59,808 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:00:59,861 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:00:59,862 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:00:59,872 - WARNING - No config file found — using default configuration.
+2025-10-12 00:00:59,873 - INFO - Loaded credentials from environment variables
+2025-10-12 00:00:59,873 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:34,025 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:34,027 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:34,027 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:34,105 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:34,106 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:34,106 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:36,733 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029298DD7350>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:01:36,735 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:01:36,809 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:01:36,810 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:01:36,813 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299094160>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:01:36,818 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:01:36,819 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:36,819 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:36,820 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:36,861 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:01:36,861 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:01:36,873 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:36,874 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:36,874 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:39,136 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:39,136 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:39,136 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:41,059 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:41,059 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:41,059 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:41,414 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299097680>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:01:41,416 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:01:41,450 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:01:41,451 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:01:41,458 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:41,459 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:41,459 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:42,075 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:42,076 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:42,076 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:42,877 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:42,877 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:42,877 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:43,174 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:43,174 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:43,175 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:43,337 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299097790>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:01:43,339 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:01:43,418 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:01:43,418 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:01:43,425 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:43,426 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:43,426 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:44,345 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299094D10>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:01:44,346 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:01:44,383 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:01:44,384 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:01:44,397 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:44,397 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:44,397 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:45,191 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299097680>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:01:45,192 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:01:45,234 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:01:45,234 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:01:45,244 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:45,244 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:45,245 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:01:45,468 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299094380>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:01:45,540 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:01:45,858 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:01:45,859 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:01:45,867 - WARNING - No config file found — using default configuration.
+2025-10-12 00:01:45,868 - INFO - Loaded credentials from environment variables
+2025-10-12 00:01:45,868 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:02:05,346 - WARNING - No config file found — using default configuration.
+2025-10-12 00:02:05,347 - INFO - Loaded credentials from environment variables
+2025-10-12 00:02:05,347 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:02:08,060 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299097460>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:02:08,062 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:02:08,148 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:02:08,149 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:02:08,158 - WARNING - No config file found — using default configuration.
+2025-10-12 00:02:08,159 - INFO - Loaded credentials from environment variables
+2025-10-12 00:02:08,159 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:04:35,456 - WARNING - No config file found — using default configuration.
+2025-10-12 00:04:35,457 - INFO - Loaded credentials from environment variables
+2025-10-12 00:04:35,457 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:04:38,157 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002190169C590>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:04:38,159 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:04:38,184 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:04:38,184 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:04:38,191 - WARNING - No config file found — using default configuration.
+2025-10-12 00:04:38,191 - INFO - Loaded credentials from environment variables
+2025-10-12 00:04:38,191 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:32:48,747 - WARNING - No config file found — using default configuration.
+2025-10-12 00:32:48,753 - INFO - Loaded credentials from environment variables
+2025-10-12 00:32:48,753 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:32:51,493 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000292FF137020>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:32:51,499 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:32:51,536 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:32:51,537 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:32:51,547 - WARNING - No config file found — using default configuration.
+2025-10-12 00:32:51,548 - INFO - Loaded credentials from environment variables
+2025-10-12 00:32:51,548 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:33:34,065 - WARNING - No config file found — using default configuration.
+2025-10-12 00:33:34,068 - INFO - Loaded credentials from environment variables
+2025-10-12 00:33:34,068 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 00:33:36,767 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029298DD7240>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 00:33:36,773 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 00:33:36,806 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 00:33:36,808 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 00:33:36,815 - WARNING - No config file found — using default configuration.
+2025-10-12 00:33:36,815 - INFO - Loaded credentials from environment variables
+2025-10-12 00:33:36,815 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 13:04:17,978 - WARNING - No config file found — using default configuration.
+2025-10-12 13:04:17,986 - INFO - Loaded credentials from environment variables
+2025-10-12 13:04:17,986 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 13:04:20,694 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299097460>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 13:04:20,696 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 13:04:20,727 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 13:04:20,727 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 13:04:20,731 - WARNING - No config file found — using default configuration.
+2025-10-12 13:04:20,731 - INFO - Loaded credentials from environment variables
+2025-10-12 13:04:20,731 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 13:05:13,841 - WARNING - No config file found — using default configuration.
+2025-10-12 13:05:13,858 - INFO - Loaded credentials from environment variables
+2025-10-12 13:05:13,858 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 13:05:16,630 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299097460>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 13:05:16,642 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 13:05:16,718 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 13:05:16,721 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 13:05:16,739 - WARNING - No config file found — using default configuration.
+2025-10-12 13:05:16,740 - INFO - Loaded credentials from environment variables
+2025-10-12 13:05:16,740 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 13:05:19,749 - WARNING - No config file found — using default configuration.
+2025-10-12 13:05:19,749 - INFO - Loaded credentials from environment variables
+2025-10-12 13:05:19,749 - INFO - \u2705 ConfigManager initialized successfully
+2025-10-12 13:05:22,025 - ERROR - Vault secret fetch failed: HTTPConnectionPool(host='vault', port=8200): Max retries exceeded with url: /v1/secret/data/apis (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000029299097460>: Failed to resolve 'vault' ([Errno 11001] getaddrinfo failed)"))
+2025-10-12 13:05:22,026 - INFO - VolatilityModel initialized with model_type = GARCH
+2025-10-12 13:05:22,049 - INFO - \u2705 Lightweight VADER-only sentiment analyzer initialized.
+2025-10-12 13:05:22,050 - INFO - \U0001f9e0 Sentiment mode initialized: FinBERT
+2025-10-12 13:05:22,057 - WARNING - No config file found — using default configuration.
+2025-10-12 13:05:22,057 - INFO - Loaded credentials from environment variables
+2025-10-12 13:05:22,057 - INFO - \u2705 ConfigManager initialized successfully

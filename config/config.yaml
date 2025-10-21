@@ -1,0 +1,4 @@
+alerts:
+  throttle_minutes: 60       # prevent duplicate alerts within 1 hour
+  cache_ttl_hours: 12        # remove alerts older than 12 hours
+  rotate_backups: true       # keep a backup cache
